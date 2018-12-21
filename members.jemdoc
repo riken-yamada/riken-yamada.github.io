@@ -1,0 +1,55 @@
+# jemdoc: menu{MENU}{members.html},showsource = Software,addcss{jemdoc.css}
+\n
+
+= High-Dimensional Statistical Modeling Unit (RIKEN AIP)
+
+== PI
+~~~
+{}{img_left}{images/makoto.jpg}{Makoto Yamada}{150px}{150px}{}\n
+[http://www.makotoyamada-ml.com/ Makoto Yamada]\n
+$\textnormal{makoto.yamada@riken.jp}$
+~~~
+
+== Postdocs
+~~~
+{}{img_left}{images/TamLe.png}{Tam Le}{150px}{150px}{}\n
+[https://sites.google.com/site/lttamvn/ Tam Le]\n $\textnormal{tam.le@riken.jp}$
+~~~
+
+
+== Technical Staff
+~~~
+{}{img_left}{images/junlu.jpg}{Jun Lu}{130px}{194px}{}\n
+[http://www.junlulocky.com/ Jun Lu] \n  $\textnormal{jun.lu@riken.jp}$
+~~~
+
+== Current Interns & Part-time students
+- [http://hclimente.eu/ Héctor Climente] (Mines ParisTech)  
+- Ziyin Liu (CMU)
+
+== Visiting Researchers
+- Shigeyuki Matsui (Nagoya University)
+- [http://www.ism.ac.jp/~fukumizu/ Kenji Fukumizu] (ISM)  
+- [http://gss.yamaguchi-u.ac.jp/en/staff/1016/  Heewon Park] (Yamaguchi University)
+- [http://campar.in.tum.de/Main/YutaItoh Yuta Itoh] (Tokyo Institute of Technology)
+#- [https://sites.google.com/site/koheihayashi84/ Kohei Hayashi] (AIST)
+- [https://sites.google.com/view/mimaizumi/ Masaaki Imaizumi] (ISM)
+- [https://exawizards.com/ Taichiro Endo] (Exawizards) 
+
+== Recent Interns/Students
+- Rui Zhang (2018, Ph.D. student Georgia Institute of Technology)
+- Liyan Xie (2018, Ph.D. student Georgia Institute of Technology)
+- Tomoya Matsumoto (Master student, University of Tokyo) (Co-supervised by Kohei)
+- Itto Higuchi (Master, University of Tokyo) (Co-supervised by Kohei)
+- [http://iwasa.t.u-tokyo.ac.jp/CV_Yu_Saito_en.html Yu Saito] (University of Tokyo) (Currently, postdoctoral researcher at RIKEN AIP)
+- [https://yaohungt.github.io Yao-Hung Hubert Tsai] (2017, Ph.D. student at CMU)
+- Nataliya Polyakovska (Undergraduate student at Kharkiv National University) (Co-supervised by Max)
+- Tanmoy Mukherjee (2017, Ph.D. student at University of Edinburgh)
+- Denny Wu (2017, Undergraduate student at CMU, now Ph.D. student at University of Toronto)
+- Junning Gao (2016 Ph.D. student at Fudan University) 
+- [http://people.duke.edu/~wl89/ Wenzhao Lian] (2015 Ph.D. student at Duke University, now senior researcher Vicarious)
+- [http://www.cs.ucr.edu/~nbegu001/ Nurjahan Begum] (2015 Ph.D. student at University of California Riverside)
+- [http://sgunasekar.github.io/ Suriya Gunasekar] (2014 Ph.D. student at University of Texas Austin, now research assistant professor TTIC)
+- [http://www.montefiore.ulg.ac.be/~ama/ Alejandro Marcos Alvarez] (2013; Ph.D. student at Universite de Liege)
+
+

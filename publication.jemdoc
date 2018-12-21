@@ -1,0 +1,225 @@
+# jemdoc: menu{MENU}{publication.html},showsource = Makoto Yamada,addcss{jemdoc.css}
+
+= Publications
+== 2019
+- *Yamada, M.\**, Wu, D.\*, [https://yaohungt.github.io/ Tsai Y-H-H.], Hirofumi Ota, [http://www.cs.cmu.edu/~rsalakhu/ Salakhutdinov, R.], [http://www-als.ics.nitech.ac.jp/~takeuchi/ Takeuchi, I] & [http://www.ism.ac.jp/~fukumizu/ Fukumizu, K.] (\* equal contribution) \n
+Post Selection Inference with Incomplete Maximum Mean Discrepancy Estimator \n
+[https://iclr.cc/ International Conference on Representation Learning (ICLR 2019)].
+
+== 2018
+- *Liu, Z.*, [https://yaohungt.github.io/ Tsai Y-H-H.], *Yamada, M.*, [http://www.cs.cmu.edu/~rsalakhu/ Salakhutdinov, R.] \n
+Semi-Supervised Pairing via Basis-Sharing Wasserstein Matching Auto-Encoder. \n
+[http://bayesiandeeplearning.org/ NeurIPS Bayesian Deep Learning Workshop 2018].  
+- *Park, H.*, *Yamada, M.*, Imoto, S., Miyano, S.\n
+Robust sample-specific stability selection with effective error control.\n
+[https://home.liebertpub.com/publications/journal-of-computational-biology/31/overview Journal of Computational Biology]. 
+- *Le, T.*, *Yamada, M.* \n
+Persistence Fisher Kernel: A Riemannian Manifold Kernel for Persistence Diagrams. \n
+In Proceedings of the [https://nips.cc/ Advances in Neural Information Processing Systems (NIPS 2018)].
+- Mukherjee, T., *Yamada, M.*, [http://homepages.inf.ed.ac.uk/thospeda/ Hospedales, T.] \n
+Learning UnsupervisedWord TranslationsWithout Adversaries. \n
+[http://emnlp2018.org/ 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP 2018)]. 
+- Kikui, K., [http://www.ar.c.titech.ac.jp/cpt_people/yuta-itoh/ Itoh, Y.], *Yamada, M.*, [https://lclab.org Sugiura, Y]. Sugimoto, M. \n
+Intra-\/Inter-user Adaptation Framework for Wearable Gesture Sensing Device. \n
+[http://iswc.net/iswc18/ The International Symposium on Wearable Computers (ISWC) 2018].  
+- [https://yaohungt.github.io/ Tsai Y-H-H.], *Yamada, M.*, Wu, D., [http://www.cs.cmu.edu/~rsalakhu/ Salakhutdinov, R.], [http://www-als.ics.nitech.ac.jp/~takeuchi/ Takeuchi, I] & [http://www.ism.ac.jp/~fukumizu/ Fukumizu, K.] \n
+Selecting the Best in GANs Family: a Post Selection Inference Framework. \n
+International Conference on Representation Learning Workshop (ICLR Workshop) 2018. 
+-  *Yamada, M.*, [https://sites.google.com/site/yutaumezu/ Umezu, Y.], [http://www.ism.ac.jp/~fukumizu/ Fukumizu, K.], & [http://www-als.ics.nitech.ac.jp/~takeuchi/ Takeuchi, I]. \n
+Post Selection Inference with Kernels. \n
+In Proceedings of the [http://www.aistats.org/ International Conference on Artificial Intelligence and Statistics (AISTATS2018)]. pp152--160.
+-  *Yamada, M.*, [https://www.cse.msu.edu/~tangjili/ Tang, J.], [https://www.cs.cmu.edu/directory/jlugomar Lugo-Martinez, J.], Hodzic, E.,  Shrestha, R., Saha, A., Ouyang, H., [http://www.yindawei.com/ Yin, D.], [http://www.bic.kyoto-u.ac.jp/pathway/mami/ Mamitsuka, H.], [https://www.sice.indiana.edu/all-people/profile.html?profile_id=291 Sahinalp, C.], [https://www.cs.indiana.edu/~predrag Radivojac, P.], [http://cnets.indiana.edu/fil/ Menczer, F.], & [http://www.yichang-cs.com/ Chang, Y]. \n
+Ultra High-Dimensional Nonlinear Feature Selection for Big Biological Data. \n
+[https://www.computer.org/web/tkde IEEE Transactions on Knowledge and Data Engineering].
+- [http://www.kishan-wimalawarne.com/ Wimalawarne, K.], *Yamada, M.*, [http://www.bic.kyoto-u.ac.jp/pathway/mami/ Mamitsuka, H.] \n
+Convex Coupled Matrix and Tensor Completion\n
+[http://www.mitpressjournals.org/loi/neco Neural Computation], vol.30, issue 11, pp.3095-3127, 
+- [http://www-personal.umich.edu/~raywang/ Wang, Y.], [http://www.yindawei.com/ Yin, D.], [http://www.luojie.me/ Luo, J.], Wang, P., *Yamada, M.*, [http://www.yichang-cs.com/ Chang, Y.], & [http://www-personal.umich.edu/~qmei/ Mei, Q.] \n
+Optimizing Whole-Page Presentation for Web Search\n
+ACM Transactions on the Web (TWEB).
+- Lei, C., Kobayashi, H., Wu, Yi., Li, Ming., Isozaki, A., Yasumoto, A., Mikami, H., Ito, T., Nitta, N., Sugimura, T., *Yamada, M.*, Yatomi, Y., Di Carlo, D., Ozeki, Y., Goda, K \n
+High-throughput imaging flow cytometry by optofluidic time-stretch microscopy \n
+[https://www.nature.com/nprot/ Nature protocols].
+- Nitta, N., Sugimura, T., Isozaki, A., Mikami, H., Hiraki, K., Sakuma, S., Iino, T., Arai, F., *Endo, T.*, Fujiwaki, Y., Fukuzawa, H., Hase, M., Hayakawa, T., Hiramatsu, K., Hoshino, Y., Inaba, M., Ito, T., Karakawa, H., Kasai, Y., Koizumi, K., Lee, S., Lei, C., Li, M., Maeno, T., Matsusaka, S., Murakami, D., Nakagawa, A., Oguchi, Y., Oikawa, M., Ota, T., Shiba, K., Shintaku, H., Shirasaki, Y., Suga, K., Suzuki, Y.,  Suzuki, N., Tanaka, Y., Tezuka, H., Toyokawa, C., Yalikun, Y., *Yamada, M.*, Yamagishi, M., Yamano, T., Yasumoto, A., Yatomi, Y., Yazawa, M., Di Carlo, D., Hosokawa, Y., Uemura, S., Ozeki, Y., Goda, K.\n
+[https://www.cell.com/cell/fulltext/S0092-8674(18)31044-4 Intelligent Image-Activated Cell Sorting].\n
+[https://www.cell.com/ Cell]
+
+
+== 2017
+- Wu, D., *Yamada, M.*, Takeuchi, I., & Fukumizu, K. \n
+Post Selection Inference with Maximum Mean Discrepancy.\n
+Learning on Distributions, Functions, Graphs and Groups, NIPS workshop 2017. 
+- *Yamada, M.*, Lian, W, [http://www.umiacs.umd.edu/~amit/ Goyal, Amit], Chen, J. [http://www.kishan-wimalawarne.com/ Wimalawarne, K.], Khan, S. A., [https://users.ics.aalto.fi/sami/ Kaski, S.], [http://www.bic.kyoto-u.ac.jp/pathway/mami/ Mamitsuka, H.], [http://www.yichang-cs.com/ Chang, Y] \n
+[https://dl.acm.org/citation.cfm?id=3098103 Convex Facotrization Machine for Toxicogenomics Prediction]. \n
+In Proceedings of the 23rd [http://www.kdd.org/kdd2017/ SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2017)], pp.1214--1215.
+- *Yamada, M.*, [http://www.kecl.ntt.co.jp/icl/ls/members/koh/ Takeuchi, K.], [http://www.kecl.ntt.co.jp/as/members/iwata/ Iwata, T.], [http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/ Taylor, J-S], & [https://users.ics.aalto.fi/sami/ Kaski, S.]\n
+Localized Lasso for High-Dimensional Regression. \n
+In Proceedings of the [http://www.aistats.org/ International Conference on Artificial Intelligence and Statistics (AISTATS2017)].
+
+== 2016
+- [http://www.yichang-cs.com/ Chang, Y], *Yamada, M.*, [http://ee.usc.edu/faculty_staff/faculty_directory/ortega.htm Ortega, A.], & [http://www-bcf.usc.edu/~liu32/ Liu, Y.] \n
+Life Cycle Modeling for Buzz Temporal Pattern Discovery.\n
+[http://tkdd.acm.org/ ACM Transactions on Knowledge Discovery from Data (TKDD)]. 11(2) 20:1-20:24, 2016.
+- [http://www.kecl.ntt.co.jp/as/members/iwata/ Iwata, T.] & *Yamada, M.*\n
+Multi-view Anomaly Detection via Robust Probabilistic Latent Variable Models.\n
+In Proceedings of the [https://nips.cc/ Advances in Neural Information Processing Systems (NIPS 2016)].
+- [http://www.kozareva.com/ Kozareva, Z.] & *Yamada, M.* \n
+Which Tumblr Post Should I Read Next?\n
+In Proceedings of the [http://acl2016.org/ Annual Meeting of the Association for Computational Linguistics (ACL 2016)].
+- [http://www.yichang-cs.com/ Chang, Y.], [http://www.jiliang.xyz/ Tang, J], [http://www.yindawei.com/ Yin, D.], *Yamada, M.*, & [http://www-bcf.usc.edu/~liu32/ Liu, Y.] \n
+Timeline Summarization with Life Cycle Models from Social Media. \n
+In Proceedings of [http://ijcai-16.org/index.php/welcome/view/home  International Joint Conference on Artificial Intelligence (IJCAI 2016)].
+- Gao, J., *Yamada, M.*, [https://users.ics.aalto.fi/sami/ Kaski, S.], [http://www.bic.kyoto-u.ac.jp/pathway/mami/ Mamitsuka, H.], & [http://www.cs.fudan.edu.cn/en/?page_id=2078 Zhu, S.]\n
+A Robust Convex Formulations for Ensemble Clustering. \n
+In Proceedings of [http://ijcai-16.org/index.php/welcome/view/home  International Joint Conference on Artificial Intelligence (IJCAI 2016)].
+- [http://www-personal.umich.edu/~raywang/ Wang, Y.], [http://www.yindawei.com/ Yin, D.], [http://www.luojie.me/ Luo, J.], Wang, P., *Yamada, M.*, [http://www.yichang-cs.com/ Chang, Y.], & [http://www-personal.umich.edu/~qmei/ Mei, Q.] \n Beyond Ranking: Optimizing Whole-Page Presentation. \n [http://www.wsdm-conference.org/2016/ In Proceedings of the 9th ACM Conference on Web Search and Data Mining (WSDM 2016)], San Francisco, US, Feb 2016. *[wsdm_award.png Best paper award]*.
+
+
+== 2015
+- [http://sgunasekar.github.io/ Gunasekar, S.], *Yamada, M.*, [http://www.yindawei.com/ Yin, D.], & [http://www.yichang-cs.com/ Chang, Y.]\n
+Consistent Collective Matrix Completion under Joint Low Rank Structure \n
+In Proceedings of [http://www.aistats.org/ International Conference on Artificial Intelligence and Statistics (AISTATS2015)]. [http://arxiv.org/pdf/1412.2113v2.pdf long version]
+- *Yamada, M.*, [http://www.cs.brown.edu/~ls/ Sigal, L.], [http://vision.ucla.edu/~raptis/ Raptis, M.], Toyoda, M., [http://www.yichang-cs.com/ Chang, Y.], & [http://www.ms.k.u-tokyo.ac.jp/sugi/index.html Sugiyama, M.] \n
+Cross-Domain Matching with Squared-Loss Mutual Information \n
+[http://www.computer.org/portal/web/tpami/home IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)], vol.37, no.9, pp.1764-1776, 2015.
+
+== 2014
+- [http://www.yichang-cs.com/ Chang, Y], *Yamada, M.*, [http://ee.usc.edu/faculty_staff/faculty_directory/ortega.htm Ortega, A.], & [http://www-bcf.usc.edu/~liu32/ Liu, Y.] \n
+Ups and Downs in Buzzes: Life Cycle Modeling for Temporal Pattern Discovery. \n
+[http://icdm2014.sfu.ca/home.html IEEE International Conference on Data Mining (ICDM 2014)]
+- [http://sugiyama-www.cs.titech.ac.jp/~gang/ Niu, G.], [https://sites.google.com/site/daibohr/ Dai, B.], *Yamada, M.*, & [http://www.ms.k.u-tokyo.ac.jp/sugi/index.html Sugiyama, M.].\n
+ Information-theoretic Semi-supervised Metric Learning via Entropy Regularization. \n
+ [http://www.mitpressjournals.org/loi/neco Neural Computation], vol.26, no.8, pp.1717-1762, 2014.
+- *Yamada, M.*, [http://www.yichang-cs.com/ Chang, Y.], & [http://www.cs.brown.edu/~ls/ Sigal, L.] \n
+ Domain Adaptation for Structured Regression. \n
+[http://www.springer.com/computer/image+processing/journal/11263 International Journal of Computer Vision  (IJCV)], vol. 109, Issue 1-2, pp. 126-145. \[[pdf/main_IJCV2014.pdf paper]\] \[[software/dTGP.zip direct software]\]
+- *Yamada, M.*, [http://www.ms.k.u-tokyo.ac.jp/sugi/index.html Sugiyama, M.], & [http://www.se-se.jp/ Sese, J.]\n
+ Least-Squares Independence Regression for Non-Linear Causal Inference under Non-Gaussian Noise. \n
+[http://www.springer.com/computer/ai/journal/10994 Machine Learning], vol.96, no.3, pp.249-267, 2014.
+- *Yamada, M.*, [http://www.cs.brown.edu/~ls/ Sigal, L.], & [http://vision.ucla.edu/~raptis/ Raptis, M.] \n
+ Covariate Shift Adaptation for Discriminative 3D Pose Estimation. \n
+[http://www.computer.org/portal/web/tpami/home IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)], vol.36, pp: 235-247, 2014.
+- *Yamada, M.*, Jitkrittum, W., [http://www.cs.brown.edu/~ls/ Sigal, L.], [http://www.cs.cmu.edu/~epxing/ Xing, E. P.] & [http://www.ms.k.u-tokyo.ac.jp/sugi/index.html Sugiyama, M.] \n
+High-Dimensional Feature Selection by Feature-Wise Non-Linear Lasso. \n
+ [http://www.mitpressjournals.org/loi/neco Neural Computation], vol.26, no.1, pp.185-207, 2014. \[[http://arxiv.org/pdf/1202.0515.pdf paper]\] \[[hsiclasso.html software]\]
+-  [http://www.ms.k.u-tokyo.ac.jp/sugi/index.html Sugiyama, M.], [http://sugiyama-www.cs.titech.ac.jp/~gang/ Niu, G.], *Yamada, M.*, Kimura, M., & Hachiya, H.\n
+ Information-maximization clustering based on squared-loss mutual information. \n
+ [http://www.mitpressjournals.org/loi/neco Neural Computation], vol.26, no.1, pp.84-131, 2014.
+
+== 2013
+- [http://www.ms.k.u-tokyo.ac.jp/sugi/index.html Sugiyama, M.], [http://sugiyama-www.cs.titech.ac.jp/~christo/index.html du Plessis, M. C.], *Yamada, M.* \n
+ Learning under non-stationarity: Covariate shift and class-balance change. \n
+ [http://wires.wiley.com/WileyCDA/WiresJournal/wisId-WICS.html WIREs Computational Statistics], 13 pages 2013. 
+- Liu, S., *Yamada, M.*, [https://sites.google.com/site/nhcollier/ Collier, N.], & [http://www.ms.k.u-tokyo.ac.jp/sugi/index.html Sugiyama, M.]\n
+Change-point detection in time-series data by relative density-ratio estimation. \n
+[http://www.journals.elsevier.com/neural-networks/ Neural Networks], vol.43, pp72-83, 2013.
+- *Yamada, M.*,  [http://www.simplex.t.u-tokyo.ac.jp/~s-taiji/ Suzuki, T.], [http://www.math.cm.is.nagoya-u.ac.jp/~kanamori/index-e.html Kanamori, T.], [http://sugiyama-www.cs.titech.ac.jp/~hachiya/index.html Hachiya, H.], & [http://www.ms.k.u-tokyo.ac.jp/sugi/index.html Sugiyama, M.] \n
+Relative density-ratio estimation for robust distribution comparison. \n
+  [http://www.mitpressjournals.org/loi/neco Neural Computation], vol. 25, no. 5, pp. 1324-1370, 2013. \[[http://arxiv.org/abs/1106.4729 paper]\]
+- *Yamada, M.*, Wichern, G., Kondo, K., [http://www.ms.k.u-tokyo.ac.jp/sugi/index.html Sugiyama, M.], & [http://www.kecl.ntt.co.jp/icl/signal/sawada/ Sawada, H.] \n
+Noise adaptive optimization of matrix initialization for frequency-domain independent Component Analysis. \n
+[http://www.journals.elsevier.com/digital-signal-processing/ Digital Signal Processing], vol.13, no.1, pp.1-8, 2013. 
+- [http://www.montefiore.ulg.ac.be/~ama/ Alvarez, A.M.], *Yamada, M.*, [http://www.brl.ntt.co.jp/people/akisato/index.html Kimura, A.], & [http://www.kecl.ntt.co.jp/as/members/iwata/ Iwata., T.]  \n
+Clustering-Based Anomaly Detection in Multi-View Data \n
+In Proceedings of [http://www.cikm2013.org/ ACM Conference of Information and Knowledge Management (CIKM2013)] (poster). pp. 1545-1548.
+- [http://www.brl.ntt.co.jp/people/akisato/index.html Kimura, A.], [http://www.kecl.ntt.co.jp/as/members/ishiguro/index.html Ishiguro, K]., [http://www.montefiore.ulg.ac.be/~ama/ Alvarez, A.M.],  Kataoka, K., Murasaki, K., & *Yamada, M.* \n
+Image context discovery from socially curated contents. \n
+In Proceedings of [http://acmmm13.org/ ACM International Conference on Multimedia (ACMMM2013)]. pp. 565-568.
+- *Yamada, M.*, [http://www.brl.ntt.co.jp/people/akisato/index.html Kimura, A.], Naya, F., & [http://www.kecl.ntt.co.jp/icl/signal/sawada/ Sawada, H]. \n
+Change-Point Detection with Feature Selection in High-dimensional Time-Series Data. \n
+In Proceedings of [http://ijcai13.org/ International Joint Conference on Artificial Intelligence (IJCAI 2013)], pp. 1827-1833.
+
+
+== 2012
+- [http://www.ms.k.u-tokyo.ac.jp/sugi/index.html Sugiyama, M.] & *Yamada, M.* \n
+On kernel parameter selection in Hilbert-Schmidt independence criterion.\n
+IEICE Transactions on Information and Systems, vol.E95-D, no.10, pp.2564-2567, 2012. 
+- *Yamada, M.*, [http://www.cs.brown.edu/~ls/ Sigal, L.], & [http://vision.ucla.edu/~raptis/ Raptis, M.] \n
+No Bias Left Behind: Covariate Shift Adaptation for Discriminative 3D Pose Estimation. \n
+In Proceedings of [http://eccv2012.unifi.it/ European Conference on Computer Vision (ECCV2012)], pp.674-687, Firenze, Italy, October 7-13 2012. \n
+- [http://sugiyama-www.cs.titech.ac.jp/~gang/ Niu, G.], [http://www.cs.purdue.edu/people/graduate_students/dai25/ Dai, B.], *Yamada, M.*, & [http://www.ms.k.u-tokyo.ac.jp/sugi/index.html Sugiyama, M.].\n
+Information-theoretic Semi-supervised Metric Learning via Entropy Regularization.\n
+In Proceedings of [http://icml.cc/2012/  29th International Conference on Machine Learning (ICML2012)], pp.89-96, Edinburgh, Scotland, June 26- July 1.
+- Liu, S., *Yamada, M.*, [https://sites.google.com/site/nhcollier/ Collier, N.], & [http://www.ms.k.u-tokyo.ac.jp/sugi/index.html Sugiyama, M.]\n
+Change-point detection in time-series data by relative density-ratio estimation. \n
+[http://www.media.imit.chiba-u.jp/ssspr2012/ International Workshop on Statistical Techniques in Pattern Recognition (SPR2012)], pp.363-372, Hiroshima, Japan, Nov. 7-9, 2012.
+- [http://www.ms.k.u-tokyo.ac.jp/sugi/index.html Sugiyama, M.], [http://sugiyama-www.cs.titech.ac.jp/~hachiya/index.html Hachiya, H.], *Yamada, M.*, Simm, J., & Nam, H. \n
+Least-squares probabilistic classifier: A computationally efficient alternative to kernel logistic regression. \n
+In Proceedings of International Workshop on Statistical Machine Learning for Speech Processing (IWSML2012), pp.1-10, Kyoto, Japan, March 31, 2012. 
+
+
+== 2011
+- *Yamada, M.*, [http://www.ms.k.u-tokyo.ac.jp/sugi/index.html Sugiyama, M.], Wichern, G., & Simm, J. \n
+Improving the accuracy of least-squares probabilistic classifiers. \n
+[http://www.ieice.org/eng/index.html IEICE] Transactions on Information and Systems, vol.E94-D, no.6, pp.1337-1340. 
+- [http://www.ms.k.u-tokyo.ac.jp/sugi/index.html Sugiyama, M.], *Yamada, M.*, von Bunau, P., [http://www.simplex.t.u-tokyo.ac.jp/~s-taiji/ Suzuki, T.], [http://www.math.cm.is.nagoya-u.ac.jp/~kanamori/index-e.html Kanamori, T.], & Kawanabe, M. \n
+Direct Density-ratio Estimation with Dimensionality Reduction via Least-squares Hetero-distributional Subspace Search.\n
+[http://www.sciencedirect.com/science/journal/08936080 Neural Networks], vol.24, no.2, pp183-198, 2011. 
+- *Yamada, M*., [http://www.ms.k.u-tokyo.ac.jp/sugi/index.html Sugiyama, M.], Wichern, G., & Simm, J. \n
+Direct importance estimation with a mixture of probabilistic principal component analyzers. \n
+[http://www.ieice.org/eng/index.html IEICE] Transactions on Information and Systems, vol.E93-D, no.10, pp.2846-2849, 2010. 
+- *Yamada, M.*,  [http://www.simplex.t.u-tokyo.ac.jp/~s-taiji/ Suzuki, T.], [http://www.math.cm.is.nagoya-u.ac.jp/~kanamori/index-e.html Kanamori, T.], [http://sugiyama-www.cs.titech.ac.jp/~hachiya/index.html Hachiya, H.], & [http://www.ms.k.u-tokyo.ac.jp/sugi/index.html Sugiyama, M.] \n
+Relative Density-Ratio Estimation for Robust Distribution Comparison.\n
+ [http://nips.cc/Conferences/2011/ Advances in Neural Information Processing Systems (NIPS2011)], pp.594-602, Granada Spain, December 12-17 2011. 
+- *Yamada, M.*, [http://sugiyama-www.cs.titech.ac.jp/~gang/ Niu, G.], Takagi, J. & [http://www.ms.k.u-tokyo.ac.jp/sugi/index.html Sugiyama, M.]\n
+ Computationally efficient sufficient dimension reduction via squared-loss mutual information.\n
+In C.-N. Hsu and W. S. Lee (Eds.), Proceedings of the Third Asian Conference on Machine Learning (ACML2011), JMLR Workshop and Conference Proceedings, vol.20, pp.247-262, Taoyuan, Taiwan, November 13-15, 2011. \n
+\[[http://jmlr.csail.mit.edu/proceedings/papers/v20/yamada11/yamada11.pdf paper]\]
+- *Yamada, M.* & [http://www.ms.k.u-tokyo.ac.jp/sugi/index.html Sugiyama, M.] \n
+Direct Density-Ratio Estimation with Dimensionality Reduction via Hetero-Distributional Subspace Analysis.\n
+ In Proceedings of [http://www.aaai.org/Conferences/AAAI/aaai11.php the Twenty-Fifth AAAI Conference on Artificial Intelligence (AAAI-11)], pp.549-554, San Francisco, California, U.S.A, August 7-11, 2011.
+- [http://www.ms.k.u-tokyo.ac.jp/sugi/index.html Sugiyama, M.], *Yamada, M.* Kimura, M. & [http://sugiyama-www.cs.titech.ac.jp/~hachiya/index.html Hachiya, H.]  \n
+ On information-maximization clustering: tuning parameter selection and analytic solution. \n
+ In Proceedings of [http://www.icml-2011.org/ 28th International Conference on Machine Learning (ICML2011)], pp.65-72, Bellevue, Washington, June 28- July 2, 2011. \n
+- *Yamada, M.* & [http://www.ms.k.u-tokyo.ac.jp/sugi/index.html Sugiyama, M.] \n
+Cross-Domain Object Matching with Model Selection.\n
+In Proceedings of [http://www.aistats.org/ Fourteenth International Conference on Artificial Intelligence and Statistics (AISTATS2011)], Ft. Lauderdale, FL, USA, April 11-13 2011. \[[http://jmlr.csail.mit.edu/proceedings/papers/v15/yamada11a/yamada11a.pdf paper], [lsom.html software]\]
+- Takagi, J., [http://www.brl.ntt.co.jp/people/ohishi/ Ohishi, Y.], [http://www.brl.ntt.co.jp/people/akisato/index.html Kimura, A.], [http://www.ms.k.u-tokyo.ac.jp/sugi/index.html Sugiyama, M.], *Yamada, M.*, & [http://www.brl.ntt.co.jp/people/kameoka/ Kameoka H.] \n
+Automatic Audio Tag Classification via Semi-Supervised Canonical Density Estimation. \n 
+In Proceedings of [http://www.icassp2011.com/ IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP2011)], pp.2232-2235, Prague, Czech Republic, May 22-27, 2011.
+
+== 2010
+- *Yamada, M*., [http://www.ms.k.u-tokyo.ac.jp/sugi/index.html Sugiyama, M.], & [http://www.ism.ac.jp/~tmatsui/ Matsui, T.] \n
+Semi-supervised speaker identification under covariate shift. \n [http://www.sciencedirect.com/science/journal/01651684 Signal Processing], vol.90, no.8, pp.2353-2361, 2010. 
+- *Yamada, M.* & [http://www.ms.k.u-tokyo.ac.jp/sugi/index.html Sugiyama, M.] \n
+ Dependence Minimizing Regression with Model Selection for Non-Linear Causal Inference under Non-Gaussian Noise. \n
+ In Proceedings of [http://www.aaai.org/Conferences/AAAI/aaai10.php the Twenty-Fourth AAAI Conference on Artificial Intelligence (AAAI-10)], pp.643-648, Atlanta, Georgia, U.S.A, July 11-15, 2010. \[[lsir.html software]\]
+- *Yamada, M.*, [http://www.ms.k.u-tokyo.ac.jp/sugi/index.html Sugiyama, M.], & Wichern, G. \n
+Direct Importance Estimation with Probabilistic Principal Component Analyzers. \n 
+In Proceedings of [http://www.icassp2010.com/ IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP2010)], pp.1962-1965, Dallas, Texas, USA, March 14-19, 2010. 
+- *Yamada, M.*, [http://www.ms.k.u-tokyo.ac.jp/sugi/index.html Sugiyama, M.], Wichern, G., & [http://www.ism.ac.jp/~tmatsui/ Matsui, T.] \n
+Acceleration of Sequence Kernel Computation for Real-Time Speaker Identification. \n 
+In Proceedings of [http://www.icassp2010.com/ IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP2010)], pp.1626-1629, Dallas, Texas, USA, March 14-19, 2010. 
+- Wichern, G., *Yamada, M.*, Thornburg, H., [http://www.ms.k.u-tokyo.ac.jp/sugi/index.html Sugiyama, M.], & Spanias, A. \n
+Automatic Audio Tagging using Covariate Shift Adaptation. \n
+In Proceedings of [http://www.icassp2010.com/ IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP2010)], pp.253-256, Dallas, Texas, USA, March 14-19, 2010. 
+
+== 2005-2009
+- *Yamada, M*. & [http://www.ms.k.u-tokyo.ac.jp/sugi/index.html Sugiyama, M.] \n
+Direct importance estimation with Gaussian mixture models. \n
+[http://www.ieice.org/eng/index.html IEICE] Transactions on Information and Systems, vol.E92-D, no.10, pp.2159-2162, 2009. 
+- Kondo, K., *Yamada, M.*, & Kenmochi, H. \n
+ A Semi-blind Source Separation Method with A Less Amount of Computation Suitable for Tiny DSP Modules. \n
+ In Proceedings of [http://www.interspeech2009.org/ Interspeech], pp.1339--1342, Brighton, U.K, September 6-10, 2009. 
+- *Yamada, M.*, [http://www.ms.k.u-tokyo.ac.jp/sugi/index.html Sugiyama, M.], & [http://www.ism.ac.jp/~tmatsui/ Matsui, T.], \n
+ Covariate Shift Adaptation for Semi-supervised Speaker Identification. \n
+ In Proceedings of [http://www.icassp09.com/ IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP2009)], pp.1661-1664, Taipei, Taiwan, April 19-24, 2009.
+- *Yamada, M.* & [http://www.engr.colostate.edu/faculty-staff/profiles.php?id=4 Azimi-Sadjadi, M. R..]\n
+ Kernel Wiener Filter with Distance Constraint. \n
+ In Proceedings of IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP2006), pp. III-596-599, Toulouse, France, May 14-19, 2006.
+- *Yamada, M.* & [http://www.engr.colostate.edu/faculty-staff/profiles.php?id=4 Azimi-Sadjadi, M. R..] \n
+ Nonlinear signal estimation using kernel Wiener filter in Canonical Correlation Analysis Framework.\n International Conference on Computational Intelligence for Modelling Control and Automation - CIMCA'2005, pp. 1095-1101, November 28-30 2005, Vienna - Austria.
+- *Yamada, M.* Cartmill, J., & [http://www.engr.colostate.edu/faculty-staff/profiles.php?id=4 Azimi-Sadjadi, M. R..] \n
+Buried Underwater Target Classification Using the New BOSS and Canonical Coordinate Decomposition Feature Extraction. \n
+MTS/IEEE Oceans Conference, 2005 
+- *Yamada, M.* & [http://www.engr.colostate.edu/faculty-staff/profiles.php?id=4 Azimi-Sadjadi, M. R..] \n
+Kernel Wiener Filter using Canonical Correlation Analysis Framework. \n
+IEEE Workshop on Statistical Signal Processing 2005 (SSP2005), pp. 769-774, Bodeaux, France, July 17-20, 2005. 
+- *Yamada, M.*, [http://www.engr.colostate.edu/~pezeshki/index.html Pezeshki, A.], & [http://www.engr.colostate.edu/faculty-staff/profiles.php?id=4 Azimi-Sadjadi, M. R..] \n
+Relation between KCCA and KFDA. \n
+International Joint Conference on Neural Networks (IJCNN2005), pp. 226-231, Montreal Canada, July 31 to August 4, 2005 
+
+== Thesis
+- *Yamada, M.*\n
+  Kernel Methods and Frequency Domain Independent Component Analysis for Robust Speaker Identification. \n
+  Doctor Thesis, Department of Statistical Science, The Graduate University for Advanced Studies, Hayama, Japan, Mar. 2010. 
