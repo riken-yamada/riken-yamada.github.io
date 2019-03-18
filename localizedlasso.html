@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title></title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Menu</div>
+<div class="menu-item"><a href="index.html">Home</a></div>
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="members.html">Members</a></div>
+<div class="menu-item"><a href="publication.html">Publications</a></div>
+<div class="menu-item"><a href="software.html">Software</a></div>
+<div class="menu-category">Links</div>
+<div class="menu-item"><a href="https://aip.riken.jp/?lang=en">RIKEN&nbsp;AIP</a></div>
+<div class="menu-item"><a href="http://www.ai.kyoto-u.ac.jp/">KyotoU&nbsp;AI&nbsp;Research&nbsp;Unit</a></div>
+<div class="menu-item"><a href="http://www.ml.ist.i.kyoto-u.ac.jp/en/">Kashima-Yamada&nbsp;Lab</a></div>
+</td>
+<td id="layout-content">
+<p><br /></p>
+<h1>Localized Lasso</h1>
+<h2>Introduction</h2>
+<p>The localized Lasso, which is suited for learning models that both are interpretable and have a high predictive power in problems with high dimensionality <img class="eq" src="eqs/12800038501-130.png" alt="d" style="vertical-align: -1px" /> and small sample size <img class="eq" src="eqs/14080042351-130.png" alt="n" style="vertical-align: -1px" />.  More specifically, we consider a function defined by local sparse models, one at each data point. We introduce sample-wise network regularization to borrow strength across the models, and sample-wise exclusive group sparsity (a.k.a., <img class="eq" src="eqs/1405708801183691081-130.png" alt="ell_{1,2}" style="vertical-align: -6px" /> norm) to introduce diversity into the choice of feature sets in the local models. The local models are interpretable in terms of similarity of their sparsity patterns. The cost function is convex, and thus has a globally optimal solution. Moreover, we propose a simple yet efficient iterative least-squares based optimization procedure for the localized Lasso, which does not need a tuning parameter, and is guaranteed to converge to a globally optimal solution. </p>
+<h2>Main Idea</h2>
+<p>The localized Lasso is given as the following form</p>
+<div class="infoblock">
+<div class="blockcontent">
+<p><img class="eq" src="eqs/7839753293272684868-130.png" alt="min_{mathbf W} hspace{0.1cm} sum_{i = 1}^n (y_i - {mathbf w}_i^top {mathbf x}_i)^2 + lambda_1 sum_{i,j = 1}^{n} r_{ij} |{mathbf w}_i - {mathbf w}_j|_{2} + lambda_2 sum_{i = 1}^{n}|{mathbf w}_i|_1^2." style="vertical-align: -9px" /></p>
+</div></div>
+<p>where <img class="eq" src="eqs/9020589606825004200-130.png" alt="r_{ij} geq 0, r_{ij} = r_{ji}, r_{ii} = 0" style="vertical-align: -6px" /> is the pre-defined Graph information.</p>
+<h2>Features</h2>
+<ul>
+<li><p>Can select nonlinearly related features.</p>
+</li>
+<li><p>Highly scalable w.r.t. the number of features.</p>
+</li>
+<li><p>Convex optimization.</p>
+</li>
+</ul>
+<h2>Download </h2>
+<ul>
+<li><p><a href="software/localizedlasso_matlab.zip">Localized Lasso (Matlab)</a></p>
+</li>
+<li><p><a href="software/pyLocalizedLasso.zip">Localized Lasso (Python)</a>
+
+</p>
+</li>
+</ul>
+<h2>Contact</h2>
+<p>I am happy to have any kind of feedbacks. E-mail: <img class="eq" src="eqs/5597659451266839522-130.png" alt="textnormal{makoto.m.yamada@ieee.org}" style="vertical-align: -4px" /></p>
+<h2>Reference</h2>
+<ul>
+<li><p><b>Yamada, M.</b>, <a href="http://www.kecl.ntt.co.jp/icl/ls/members/koh/">Takeuchi, K.</a>, <a href="http://www.kecl.ntt.co.jp/as/members/iwata/">Iwata, T.</a>, <a href="http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/">Taylor, J-S</a>, &amp; <a href="https://users.ics.aalto.fi/sami/">Kaski, S.</a><br />
+Localized Lasso for High-Dimensional Regression. <br />
+In Proceedings of the <a href="http://www.aistats.org/">International Conference on Artificial Intelligence and Statistics (AISTATS2017)</a>. to appear.</p>
+</li>
+</ul>
+<div id="footer">
+<div id="footer-text">
+Page generated 2019-03-19 04:23:20 JST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+(<a href="localizedlasso.jemdoc">source</a>)
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>
