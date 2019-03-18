@@ -5,7 +5,7 @@ The following software programs were developed when I was in Tokyo Institute of 
 
 == Feature selection
 - [hsiclasso.html Hilbert-Schmidt Independence Criterion Lasso (HSIC Lasso)]
-#- [localizedlasso.html Localized Lasso]
+- [localizedlasso.html Localized Lasso]
 
 #== Multi-modal regression
 #- [software/dTGP.zip direct Twin Gaussian Processes Regression]
