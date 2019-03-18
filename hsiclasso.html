@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title></title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Menu</div>
+<div class="menu-item"><a href="index.html">Home</a></div>
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="members.html">Members</a></div>
+<div class="menu-item"><a href="publication.html">Publications</a></div>
+<div class="menu-category">Links</div>
+<div class="menu-item"><a href="https://aip.riken.jp/?lang=en">RIKEN&nbsp;AIP</a></div>
+<div class="menu-item"><a href="http://www.ai.kyoto-u.ac.jp/">KyotoU&nbsp;AI&nbsp;Research&nbsp;Unit</a></div>
+<div class="menu-item"><a href="http://www.ml.ist.i.kyoto-u.ac.jp/en/">Kashima-Yamada&nbsp;Lab</a></div>
+</td>
+<td id="layout-content">
+<p><br /></p>
+<h1>Hilbert-Schmidt Independence Criterion Lasso (HSIC Lasso)</h1>
+<h2>Introduction</h2>
+<p>The goal of supervised feature selection is to find a subset of input features that are responsible for predicting output values. The least absolute shrinkage and selection operator (Lasso) allows computationally efficient feature selection based on linear dependency between input features and output values. In this project, we consider a
+feature-wise kernelized Lasso for capturing non-linear input-output dependency. We first show that, with particular choices of kernel functions, non-redundant features with strong statistical dependence on output values can be found in terms of kernel-based independence measures. We then show that the globally optimal solution can be efficiently computed; this makes the approach scalable to high-dimensional problems.</p>
+<h2>Main Idea</h2>
+<p>The HSIC Lasso is given as the following form</p>
+<div class="infoblock">
+<div class="blockcontent">
+<p><img class="eq" src="eqs/1398821167341479412-130.png" alt="min_{alpha_1,ldots,alpha_d}~frac{1}{2}|bar{bf L} - sum_{k = 1}^d alpha_k bar{bf K}^{(k)}|^2_{F} + lambda sum_{k = 1}^d |alpha_k|~~~ textnormal{s.t.}~alpha_1,ldots,alpha_d geq 0" style="vertical-align: -7px" /></p>
+</div></div>
+<p>where <img class="eq" src="eqs/5720497913472131904-130.png" alt="|cdot|_F" style="vertical-align: -5px" /> is the Frobenius norm, <img class="eq" src="eqs/2980319764763604955-130.png" alt="bar{bf K}^{(k)}" style="vertical-align: -2px" /> is the centered Gram matrix computed from <img class="eq" src="eqs/13696041194-130.png" alt="k" style="vertical-align: -1px" />-th feature, and <img class="eq" src="eqs/1454982826732393068-130.png" alt="bar{bf L}" style="vertical-align: -0px" /> is the centered Gram matrix computed from output <img class="eq" src="eqs/15488046584-130.png" alt="y" style="vertical-align: -4px" />.</p>
+<p>To compute the solutions of HSIC Lasso, we use the <a href="http://www.ibis.t.u-tokyo.ac.jp/ryotat/dal/">dual augmented Lagrangian (DAL) package</a>.</p>
+<h2>Features</h2>
+<ul>
+<li><p>Can select nonlinearly related features.</p>
+</li>
+<li><p>Highly scalable w.r.t. the number of features.</p>
+</li>
+<li><p>Convex optimization.</p>
+</li>
+</ul>
+<h2>Download </h2>
+<ul>
+<li><p><a href="software/HSICLasso.zip">HSIC Lasso (Matlab)</a></p>
+</li>
+<li><p><a href="software/HSICLasso_large.zip">HSIC Lasso (Matlab, less memory implementation)</a>
+
+</p>
+</li>
+<li><p><a href="https://github.com/riken-aip/pyHSICLasso">HSIC Lasso (Python, LARS based approach)</a></p>
+</li>
+</ul>
+<h2>Usage</h2>
+<ul>
+<li><p>Download the source code.</p>
+</li>
+<li><p>For the less memory implementation, you need to download <a href="http://bitbucket.org/eigen/eigen/get/3.0.7.zip">eigen</a> and place it to the same folder of HSICLasso. Then, compile cpp files with mex.</p>
+</li>
+<li><p>Run the script (demo_HSICLasso.m).</p>
+</li>
+</ul>
+<h2>Acknowledgement</h2>
+<p>I am grateful to Prof. <a href="http://sugiyama-www.cs.titech.ac.jp/~sugi/">Masashi Sugiyama</a> and Dr. <a href="http://cs.brown.edu/~ls/">Leonid Sigal</a> for their support in developing this software.</p>
+<h2>Contact</h2>
+<p>I am happy to have any kind of feedbacks. E-mail: <img class="eq" src="eqs/5445516772145021070-130.png" alt="textnormal{makotoy@yahoo-inc.com}" style="vertical-align: -4px" /></p>
+<h2>Reference</h2>
+<ul>
+<li><p><b>Yamada, M.</b>, Jitkrittum, W., <a href="http://www.cs.brown.edu/~ls/">Sigal, L.</a>, <a href="http://www.cs.cmu.edu/~epxing/">Xing, E. P.</a> &amp; <a href="http://sugiyama-www.cs.titech.ac.jp/~sugi/">Sugiyama, M.</a> <br />
+High-Dimensional Feature Selection by Feature-Wise Non-Linear Lasso. <br />
+<a href="http://www.mitpressjournals.org/loi/neco">Neural Computation</a>, vol.26, no.1, pp.185-207, 2014. [<a href="http://arxiv.org/pdf/1202.0515.pdf">paper</a>] [<a href="hsiclasso.html">software</a>]</p>
+</li>
+<li><p><b>Yamada, M.</b>, <a href="http://www.brl.ntt.co.jp/people/akisato/index.html">Kimura, A.</a>, Naya, F., &amp; <a href="http://www.kecl.ntt.co.jp/icl/signal/sawada/">Sawada, H</a>. <br />
+Change-Point Detection with Feature Selection in High-dimensional Time-Series Data. <br />
+In Proceedings of <a href="http://ijcai13.org/">International Joint Conference on Artificial Intelligence (IJCAI 2013)</a>, pp. 1827-1833.</p>
+</li>
+</ul>
+<div id="footer">
+<div id="footer-text">
+Page generated 2019-03-18 16:37:15 JST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+(<a href="hsiclasso.jemdoc">source</a>)
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>

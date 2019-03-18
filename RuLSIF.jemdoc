@@ -1,0 +1,48 @@
+# jemdoc: menu{MENU}{RuLSIF.html},showsource = RuLSIF,addcss{jemdoc.css}
+\n
+= Relative unconstrained Least-Squares Importance Fitting (RuLSIF)
+== Introduction
+RuLSIF is an algorithm to directly estimate the relative denisty-ratio:
+
+~~~
+$r_{\alpha}({\mathbf x}) = \frac{p({\mathbf x})}{\alpha p({\mathbf x}) + (1 - \alpha)q({\mathbf x})}$
+~~~
+ 
+where $0 \leq \alpha < 1$ is a parameter.
+
+In addition, using RuLSIF, the relative Pearson divergence (rPE)
+
+~~~
+$\mathrm{PE}_{\alpha}[p({\mathbf x}) || q({\mathbf x})]  = \frac{1}{2}\int \left(\frac{p({\mathbf x})}{\alpha p({\mathbf x}) + (1 - \alpha)q({\mathbf x})} - 1\right)^2 (\alpha p({\mathbf x}) + (1 - \alpha)q({\mathbf x})) \mathrm{d}{\mathbf x}$
+~~~
+
+can be efficiently estimated.
+
+The Matlab code provides the function that computes the relative density-ratio and relative Pearson divergence (rPE).
+
+== Download 
+- [software/RuLSIF.zip RuLSIF (Matlab)] 
+
+== Examples (Toy data)
+Same distribution
+~~~
+{}{img_left}{FIG/density1.png}{Same distribution}{400}{300}
+~~~
+
+Different distribution
+~~~
+{}{img_left}{FIG/density2.png}{Different distribution}{400}{300}
+~~~
+
+== Acknowledgement
+I am grateful to Prof. [http://sugiyama-www.cs.titech.ac.jp/~sugi/ Masashi Sugiyama] for his support in developing this software.
+
+== Contact
+I am happy to have any kind of feedbacks. E-mail: yamada AT sg DOT cs DOT titech DOT ac DOT jp
+
+== Reference
+Yamada, M., Suzuki, T., Kanamori, T., Hachiya, H., \& Sugiyama, M.\n
+Relative density-ratio estimation for robust distribution comparison.\n
+In X. XXX, Y. YYY, and Z. ZZZ (Eds.), Advances in Neural Information Processing Systems 24, pp.xxx-xxx, 2011.\n
+(Presented at Neural Information Processing Systems (NIPS2011), Granada, Spain, Dec. 13-15, 2011) 
+

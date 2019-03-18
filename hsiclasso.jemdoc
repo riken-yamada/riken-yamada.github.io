@@ -1,0 +1,85 @@
+# jemdoc: menu{MENU}{smis.html},showsource = HSICLasso,addcss{jemdoc.css}
+\n
+= Hilbert-Schmidt Independence Criterion Lasso (HSIC Lasso)
+
+== Introduction
+The goal of supervised feature selection is to find a subset of input features that are responsible for predicting output values. The least absolute shrinkage and selection operator (Lasso) allows computationally efficient feature selection based on linear dependency between input features and output values. In this project, we consider a
+feature-wise kernelized Lasso for capturing non-linear input-output dependency. We first show that, with particular choices of kernel functions, non-redundant features with strong statistical dependence on output values can be found in terms of kernel-based independence measures. We then show that the globally optimal solution can be efficiently computed; this makes the approach scalable to high-dimensional problems.
+
+== Main Idea
+The HSIC Lasso is given as the following form
+~~~
+$\min_{\alpha_1,\ldots,\alpha_d}~\frac{1}{2}\|\bar{\bf L} - \sum_{k = 1}^d \alpha_k \bar{\bf K}^{(k)}\|^2_{F} + \lambda \sum_{k = 1}^d |\alpha_k|~~~ \textnormal{s.t.}~\alpha_1,\ldots,\alpha_d \geq 0$
+
+~~~
+
+where $\|\cdot\|_F$ is the Frobenius norm, $\bar{\bf K}^{(k)}$ is the centered Gram matrix computed from $k$-th feature, and $\bar{\bf L}$ is the centered Gram matrix computed from output $y$.
+
+To compute the solutions of HSIC Lasso, we use the [http://www.ibis.t.u-tokyo.ac.jp/ryotat/dal/ dual augmented Lagrangian (DAL) package].
+
+== Features
+- Can select nonlinearly related features.
+- Highly scalable w.r.t. the number of features.
+- Convex optimization.
+
+
+== Download 
+- [software/HSICLasso.zip HSIC Lasso (Matlab)]#  \n
+- [software/HSICLasso_large.zip HSIC Lasso (Matlab, less memory implementation)]
+  #If you want to have the not well organized version of LSOM, please feel free to e-mail me. \n
+  #($\textnormal{yamada@sg.cs.titech.ac.jp}$).
+- [https://github.com/riken-aip/pyHSICLasso HSIC Lasso (Python, LARS based approach)]
+
+== Usage
+- Download the source code.
+- For the less memory implementation, you need to download [http://bitbucket.org/eigen/eigen/get/3.0.7.zip eigen] and place it to the same folder of HSICLasso. Then, compile cpp files with mex.
+- Run the script (demo_HSICLasso.m).
+
+
+#== Photo Album Summarization
+#- Color image
+#~~~
+#{}{img_left}{FIG/image_grid.png}{PAS1}{400}{300}
+#~~~
+
+#== License
+#~~~
+#Copyright (c) 2010 Makoto Yamada
+#
+# Permission is hereby granted, free of charge, to any person
+# obtaining a copy of this software and associated documentation
+# files (the "Software"), to deal in the Software without
+# restriction, including without limitation the rights to use,
+# copy, modify, merge, publish, distribute, sublicense, and/or sell
+# copies of the Software, and to permit persons to whom the
+# Software is furnished to do so, subject to the following
+# conditions:
+#
+# The above copyright notice and this permission notice shall be
+# included in all copies or substantial portions of the Software.
+#
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+# EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+# OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+# NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+# HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+# WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+# FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+# OTHER DEALINGS IN THE SOFTWARE.
+#~~~
+
+== Acknowledgement
+I am grateful to Prof. [http://sugiyama-www.cs.titech.ac.jp/~sugi/ Masashi Sugiyama] and Dr. [http://cs.brown.edu/~ls/ Leonid Sigal] for their support in developing this software.
+
+== Contact
+I am happy to have any kind of feedbacks. E-mail: $\textnormal{makotoy@yahoo-inc.com}$
+
+== Reference
+- *Yamada, M.*, Jitkrittum, W., [http://www.cs.brown.edu/~ls/ Sigal, L.], [http://www.cs.cmu.edu/~epxing/ Xing, E. P.] & [http://sugiyama-www.cs.titech.ac.jp/~sugi/ Sugiyama, M.] \n
+High-Dimensional Feature Selection by Feature-Wise Non-Linear Lasso. \n
+ [http://www.mitpressjournals.org/loi/neco Neural Computation], vol.26, no.1, pp.185-207, 2014. \[[http://arxiv.org/pdf/1202.0515.pdf paper]\] \[[hsiclasso.html software]\]
+- *Yamada, M.*, [http://www.brl.ntt.co.jp/people/akisato/index.html Kimura, A.], Naya, F., & [http://www.kecl.ntt.co.jp/icl/signal/sawada/ Sawada, H]. \n
+Change-Point Detection with Feature Selection in High-dimensional Time-Series Data. \n
+In Proceedings of [http://ijcai13.org/ International Joint Conference on Artificial Intelligence (IJCAI 2013)], pp. 1827-1833.
+
+
