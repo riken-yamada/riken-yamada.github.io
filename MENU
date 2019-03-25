@@ -1,12 +1,20 @@
-Menu
+Makoto Yamada
 Home                [index.html]
+About me            [profile.html]
+CV (pdf)            [cv.pdf]
 
 Research
-Members             [members.html]
-Publications        [publication.html]
-Software            [software.html]
+Publications (by Type) [publication.html]
+Publications (by Year) [publication_year.html]
+Members	            [members.html] 
+Softwares           [software.html]
+Talks   	    [talks.html]
 
 Links
-RIKEN AIP         [https://aip.riken.jp/?lang=en]
-KyotoU AI Research Unit    [http://www.ai.kyoto-u.ac.jp/]
-Kashima-Yamada Lab [http://www.ml.ist.i.kyoto-u.ac.jp/en/]
+Conferences         [conference.html]
+Yahoo Labs         [http://labs.yahoo.com/]
+
+Language
+Japanese page	[index_jp.html]
+English	page	[index_en.html]
+
