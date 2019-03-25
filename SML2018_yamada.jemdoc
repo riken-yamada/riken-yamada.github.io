@@ -17,10 +17,10 @@ This course will cover in a broad sense the fundamental theoretical aspects and 
 - Advanced topics (Semi-supervised learning, active learning, and structured output prediction)
 
 == Lecture Slides
-. [SML2018_sparsity.pdf Feature Selection and Sparsity]
-. [SML2018_DR.pdf Dimensionality reduction]
-. [SML2018_industries.pdf Matrix Completion and Active Learning]
-. [SML2018_semisupervised.pdf Semi-supervised Learning]
-. [SML2018_transferlearning.pdf Transfer Learning]
-. [SML2018_densityratio.pdf Divergence Estimation and Density Ratio Estimation]
-. [SML2018_model-ensemble.pdf Model Ensemble]
+. [2018/SML2018_sparsity.pdf Feature Selection and Sparsity]
+. [2018/SML2018_DR.pdf Dimensionality reduction]
+. [2018/SML2018_industries.pdf Matrix Completion and Active Learning]
+. [2018/SML2018_semisupervised.pdf Semi-supervised Learning]
+. [2018/SML2018_transferlearning.pdf Transfer Learning]
+. [2018/SML2018_densityratio.pdf Divergence Estimation and Density Ratio Estimation]
+. [2018/SML2018_model-ensemble.pdf Model Ensemble]
