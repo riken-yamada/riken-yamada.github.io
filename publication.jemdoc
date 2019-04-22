@@ -2,12 +2,15 @@
 
 = Publications
 == 2019
+- Ndiaye, E., *Le, T.*, Fercoq, O., Salmon, J., Takeuchi, I. \n
+Safe Grid Search with Optimal Complexity.\n
+[https://icml.cc/ International Conference on Machine Learning (ICML 2019)].
 - [http://hclimente.eu/ Climente-González, H.], [http://cazencott.info/ Azencott, C-A.], [https://users.ics.aalto.fi/sami/ Kaski, S.], & *Yamada, M.* \n
  Block HSIC Lasso: model-free biomarker detection for ultra-high dimensional data. \n
-[https://www.iscb.org/ismbeccb2019 ISMB/ECCB 2019].\n 
+[https://www.iscb.org/ismbeccb2019 ISMB/ECCB 2019].
 - Sato, R., *Yamada, M.*, & [https://hkashima.github.io/index.html Kashima, H.]\n
 Constant Time Graph Neural Networks.\n
- [https://rlgm.github.io/ ICLR 2019 Workshop Representation Learning on Graphs and Manifolds]. \n
+ [https://rlgm.github.io/ ICLR 2019 Workshop Representation Learning on Graphs and Manifolds]. 
 - *Yamada, M.\**, Wu, D.\*, [https://yaohungt.github.io/ Tsai Y-H-H.], Hirofumi Ota, [http://www.cs.cmu.edu/~rsalakhu/ Salakhutdinov, R.], [http://www-als.ics.nitech.ac.jp/~takeuchi/ Takeuchi, I] & [http://www.ism.ac.jp/~fukumizu/ Fukumizu, K.] (\* equal contribution) \n
 Post Selection Inference with Incomplete Maximum Mean Discrepancy Estimator \n
 [https://iclr.cc/ International Conference on Representation Learning (ICLR 2019)].
