@@ -20,7 +20,7 @@ Constant Time Graph Neural Networks.\n
 - *Yamada, M.\**, Wu, D.\*, [https://yaohungt.github.io/ Tsai Y-H-H.], Hirofumi Ota, [http://www.cs.cmu.edu/~rsalakhu/ Salakhutdinov, R.], [http://www-als.ics.nitech.ac.jp/~takeuchi/ Takeuchi, I] & [http://www.ism.ac.jp/~fukumizu/ Fukumizu, K.] (\* equal contribution) \n
 Post Selection Inference with Incomplete Maximum Mean Discrepancy Estimator \n
 [https://iclr.cc/ International Conference on Representation Learning (ICLR 2019)].
-- Isozaki, A., Mikami, H., Hiramatsu, K., Sakuma, S., Kasai, Y., Iino, T., Yamano, T., Yasumoto, A., Oguchi, Y., Suzuki, N., Shirasaki, Y., Endo, T., Ito, T., Hiraki, K., Yamada, M., Matsusaka, S., Hayakawa, T., Fukuzawa, H., Yatomi, Y., Arai, F., Di Carlo, D., Nakagawa, A., Hoshino, Y., Hosokawa, Y., Uemura, S., Sugimura, T., Ozeki, Y., Nitta, N., Goda, K.\n
+- Isozaki, A., Mikami, H., Hiramatsu, K., Sakuma, S., Kasai, Y., Iino, T., Yamano, T., Yasumoto, A., Oguchi, Y., Suzuki, N., Shirasaki, Y., *Endo, T.*, Ito, T., Hiraki, K., *Yamada, M.*, Matsusaka, S., Hayakawa, T., Fukuzawa, H., Yatomi, Y., Arai, F., Di Carlo, D., Nakagawa, A., Hoshino, Y., Hosokawa, Y., Uemura, S., Sugimura, T., Ozeki, Y., Nitta, N., Goda, K.\n
 [https://www.nature.com/articles/s41596-019-0183-1 A practical guide to intelligent image-activated cell sorting] \n
 Nature Protocols. 
 
