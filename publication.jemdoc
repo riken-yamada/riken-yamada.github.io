@@ -75,7 +75,7 @@ Post Selection Inference with Maximum Mean Discrepancy.\n
 Learning on Distributions, Functions, Graphs and Groups, NIPS workshop 2017. 
 - *Yamada, M.*, Lian, W, [http://www.umiacs.umd.edu/~amit/ Goyal, Amit], Chen, J. [http://www.kishan-wimalawarne.com/ Wimalawarne, K.], Khan, S. A., [https://users.ics.aalto.fi/sami/ Kaski, S.], [http://www.bic.kyoto-u.ac.jp/pathway/mami/ Mamitsuka, H.], [http://www.yichang-cs.com/ Chang, Y] \n
 [https://dl.acm.org/citation.cfm?id=3098103 Convex Facotrization Machine for Toxicogenomics Prediction]. \n
-In Proceedings of the 23rd [http://www.kdd.org/kdd2017/ SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2017)], pp.1214--1215. *Note:* The derivation of the gradient in that paper is wrong. See [paper/KDD_2017_errata.pdf this paper] for a correct result. 
+In Proceedings of the 23rd [http://www.kdd.org/kdd2017/ SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2017)], pp.1214--1215. *Note:* The derivation of the gradient of the loss function needs the gradient for -diag(xx) term. See [paper/KDD_2017_errata.pdf this paper] for a correct result. 
 - *Yamada, M.*, [http://www.kecl.ntt.co.jp/icl/ls/members/koh/ Takeuchi, K.], [http://www.kecl.ntt.co.jp/as/members/iwata/ Iwata, T.], [http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/ Taylor, J-S], & [https://users.ics.aalto.fi/sami/ Kaski, S.]\n
 Localized Lasso for High-Dimensional Regression. \n
 In Proceedings of the [http://www.aistats.org/ International Conference on Artificial Intelligence and Statistics (AISTATS2017)].
