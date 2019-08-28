@@ -2,6 +2,9 @@
 
 = Publications
 == 2019
+- [https://yaohungt.github.io/ Tsai Y-H-H.], Bai, S., *Yamada, M.*, [https://www.cs.cmu.edu/~morency/ Morency, L-P.], [http://www.cs.cmu.edu/~rsalakhu/ Salakhutdinov, R.]\n
+Empirical Study of Transformer's Attention Mechanism via the Lens of Kernel.\n
+EMNLP-IJCNLP 2019
 - Harada, S., Taniguchi, K., *Yamada, M.*, [https://hkashima.github.io/index.html Kashima, H.]\n
 Context-Regularized Neural Collaborative Filtering for Game App Recommendation\n
 ACM RecSys LBR track.
