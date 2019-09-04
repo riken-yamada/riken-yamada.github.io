@@ -11,6 +11,9 @@ Tree-Sliced Variants of Wasserstein Distances.\n
 - Lim, J., *Yamada, M.*, Schelkopf, B., Jitkrittum, W.\n
 Kernel Stein Tests for Multiple Model Comparison.\n
 [https://nips.cc/ Advances in Neural Information Processing Systems (NeurIPS 2019)].
+- Sato, R., *Yamada, M.*, Kashima, H.\n
+Learning to Sample Hard Instances for Graph Algorithms.\n
+The 11th Asian Conference on Machine Learning (ACML), 2019.
 - [https://yaohungt.github.io/ Tsai Y-H-H.], Bai, S., *Yamada, M.*, [https://www.cs.cmu.edu/~morency/ Morency, L-P.], [http://www.cs.cmu.edu/~rsalakhu/ Salakhutdinov, R.]\n
 Empirical Study of Transformer's Attention Mechanism via the Lens of Kernel.\n
 EMNLP-IJCNLP 2019
