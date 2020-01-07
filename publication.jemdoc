@@ -2,12 +2,21 @@
 
 = Publications
 == 2020
-- Wimalawarne, K., *Yamada, M.*,  Mamitsuka, H. \n
-Scaled Coupled Norms and Coupled Higher Order Tensor Completion.\n
-Neural Computation (NECO), 2020.
+- Poignard, B., *Yamada, M.* \n
+Sparse Hilbert-Schmidt Independence Criterion Regression.\n
+In Proceedings of the [http://www.aistats.org/ International Conference on Artificial Intelligence and Statistics (AISTATS2020)]. to appear.
+- Lim, J., *Yamada, M.*, Jitkrittum, W., Terada, Y., Matsui, S., Shimodaira, H. \n
+More Powerful Selective Kernel Tests for Feature Selection\n
+In Proceedings of the [http://www.aistats.org/ International Conference on Artificial Intelligence and Statistics (AISTATS2020)]. to appear.
 - *Huang, Q.*, Xia, T., Sun, H., *Yamada, M.*, Chang, Y. \n
 Unsupervised Nonlinear Feature Selection from High-dimensional Signed Networks. \n
 The 34th AAAI Conference on Artificial Intelligence (AAAI), 2020.
+- Saito, Y., Shin, K., Terayama, K., Desai, S., Onga, M., Nakagawa, Y., Itahashi, Y.M., Iwasa, Y., *Yamada, Y.*, Koji Tsuda\n 
+Deep-learning-based quality filtering of mechanically exfoliated 2D crystals \n
+npj Computational Materials volume 5, Article number: 124 (2019) 
+- Wimalawarne, K., *Yamada, M.*,  Mamitsuka, H. \n
+Scaled Coupled Norms and Coupled Higher Order Tensor Completion.\n
+Neural Computation (NECO), 2020.
 
 == 2019
 - Sato, R., *Yamada, M.*, [https://hkashima.github.io/index.html Kashima, H.]\n
