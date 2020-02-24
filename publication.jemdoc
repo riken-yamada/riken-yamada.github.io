@@ -2,6 +2,12 @@
 
 = Publications
 == 2020
+- Liu, Y., Zhu, L., *Yamada, M.*, Yang, Y.\n
+Semantic Correspondence as an Optimal Transport Problem \n
+In Proceedings of [http://cvpr2020.thecvf.com/ CVPR 2020].
+- *Shiraishi, T.*, *Le, T.*, Kashima, H., *Yamada, M.* \n
+Topological Bayesian Optimization with Persistence Diagrams. \n
+In Proceedings of the [http://ecai2020.eu/ 24th European Conference on Artificial Intelligence (ECAI 2020)].
 - Poignard, B., *Yamada, M.* \n
 Sparse Hilbert-Schmidt Independence Criterion Regression.\n
 In Proceedings of the [http://www.aistats.org/ International Conference on Artificial Intelligence and Statistics (AISTATS2020)]. to appear.
