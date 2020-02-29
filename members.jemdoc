@@ -7,18 +7,18 @@
 ~~~
 {}{img_left}{images/makoto.jpg}{Makoto Yamada}{150px}{150px}{}\n
 [profile.html Makoto Yamada]\n
-$\textnormal{makoto.yamada@riken.jp}$
+${makoto.yamada@riken.jp}$
 ~~~
 
 == Postdocs
 ~~~
 {}{img_left}{images/TamLe.png}{Tam Le}{150px}{150px}{}\n
-[https://tamle-ml.github.io/ Tam Le]\n $\textnormal{tam.le@riken.jp}$
+[https://tamle-ml.github.io/ Tam Le]\n ${tam.le@riken.jp}$
 ~~~
 
 ~~~
 {}{img_left}{images/dinesh.jpg}{Dinesh Singh}{147px}{199px}{}\n
-[https://sites.google.com/site/dineshsinghindian/ Dinesh Singh]\n $\textnormal{dinesh.singh@riken.jp}$
+[https://sites.google.com/site/dineshsinghindian/ Dinesh Singh]\n ${dinesh.singh@riken.jp}$
 ~~~
 
 #== Technical Staff
@@ -28,8 +28,10 @@ $\textnormal{makoto.yamada@riken.jp}$
 #~~~
 
 == Current Interns & Part-time students
-- Qiang Huang (Jilin University)
-- Shaoshen Wang (University of Technology Sydney)
+- Akito Seki (Kyoto University)
+- Tatsuya Shiraishi (Kyoto University)
+- Mathis Petrovich (ENS Paris-Saclay)
+- Chao Liang (Zhejiang University)
 
 == Visiting Researchers
 - Shigeyuki Matsui (Nagoya University)
@@ -42,6 +44,8 @@ $\textnormal{makoto.yamada@riken.jp}$
 - [https://sites.google.com/site/poignardbenjamin Benjamin Poignard] (Osaka University) 
 
 == Recent members
+- Qiang Huang (Jilin University)
+- Shaoshen Wang (University of Technology Sydney)
 -  Jenning Lim (UCL)
 - [https://sites.google.com/site/hohtastats/ Hirofumi Ohta] (University of Tokyo, now Ph.D. student at Rutgers University)
 - [https://csyanbin.github.io Yanbin Liu] (2019, Ph.D. student University of Technology Sydney)
