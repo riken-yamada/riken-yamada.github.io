@@ -9,7 +9,7 @@ feature-wise kernelized Lasso for capturing non-linear input-output dependency. 
 == Main Idea
 The HSIC Lasso is given as the following form
 ~~~
-$\min_{\alpha_1,\ldots,\alpha_d}~\frac{1}{2}\|\bar{\bf L} - \sum_{k = 1}^d \alpha_k \bar{\bf K}^{(k)}\|^2_{F} + \lambda \sum_{k = 1}^d |\alpha_k|~~~ \textnormal{s.t.}~\alpha_1,\ldots,\alpha_d \geq 0$
+$\min_{\alpha_1,\ldots,\alpha_d}~\frac{1}{2}\|\bar{\bf L} - \sum_{k = 1}^d \alpha_k \bar{\bf K}^{(k)}\|^2_{F} + \lambda \sum_{k = 1}^d |\alpha_k| \hspace{.3cm} \text{s.t.}~\alpha_1,\ldots,\alpha_d \geq 0$
 
 ~~~
 

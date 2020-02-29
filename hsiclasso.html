@@ -37,7 +37,7 @@ feature-wise kernelized Lasso for capturing non-linear input-output dependency. 
 <p>The HSIC Lasso is given as the following form</p>
 <div class="infoblock">
 <div class="blockcontent">
-<p>\(\min_{\alpha_1,\ldots,\alpha_d}&nbsp;\frac{1}{2}\|\bar{\bf L} - \sum_{k = 1}^d \alpha_k \bar{\bf K}^{(k)}\|^2_{F} + \lambda \sum_{k = 1}^d |\alpha_k|&nbsp;&nbsp;&nbsp; \textnormal{s.t.}&nbsp;\alpha_1,\ldots,\alpha_d \geq 0\)</p>
+<p>\(\min_{\alpha_1,\ldots,\alpha_d}&nbsp;\frac{1}{2}\|\bar{\bf L} - \sum_{k = 1}^d \alpha_k \bar{\bf K}^{(k)}\|^2_{F} + \lambda \sum_{k = 1}^d |\alpha_k| \hspace{.3cm} \text{s.t.}&nbsp;\alpha_1,\ldots,\alpha_d \geq 0\)</p>
 </div></div>
 <p>where \(\|\cdot\|_F\) is the Frobenius norm, \(\bar{\bf K}^{(k)}\) is the centered Gram matrix computed from \(k\)-th feature, and \(\bar{\bf L}\) is the centered Gram matrix computed from output \(y\).</p>
 <p>To compute the solutions of HSIC Lasso, we use the <a href="http://www.ibis.t.u-tokyo.ac.jp/ryotat/dal/" target=&ldquo;blank&rdquo;>dual augmented Lagrangian (DAL) package</a>.</p>
@@ -87,7 +87,7 @@ In Proceedings of <a href="http://ijcai13.org/" target=&ldquo;blank&rdquo;>Inter
 </ul>
 <div id="footer">
 <div id="footer-text">
-Page generated 2020-02-29 14:17:56 JST, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
+Page generated 2020-02-29 15:20:48 JST, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
 (<a href="hsiclasso.jemdoc">source</a>)
 </div>
 </div>
