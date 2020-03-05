@@ -1,6 +1,24 @@
 # jemdoc: menu{MENU}{publication.html},showsource = Makoto Yamada,addcss{jemdoc.css}
 
 = Publications
+== Prepring
+- Petrovich, M., *Yamada, M.* \n
+Fast local linear regression with anchor regularization. [https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/245860 url]`
+- Sato, R., *Yamada, M.*, Kashima, H. \n
+Random Features Strengthen Graph Neural Networks. [https://arxiv.org/abs/2002.03155 url]
+- Sato, R., Cuturi, M., *Yamada, M.*, Kashima, H. \n
+Fast and Robust Comparison of Probability Measures in Heterogeneous Spaces. [https://arxiv.org/abs/2002.01615 url]
+- *Singh, D.*, *Yamada, M.* \n
+FsNet: Feature Selection Network on High-dimensional Biological Data. [https://arxiv.org/abs/2001.08322 url]
+- Huang, Q., *Yamada, M.*, Tian, Y., *Singh, D.*, Yin, D., Chang, Y.\n
+GraphLIME: Local Interpretable Model Explanations for Graph Neural Networks. [https://arxiv.org/abs/2001.06216 url]
+- *Le, T.*, Huynh, V., Ho, N., Phung, D., *Yamada, M.*\n
+Tree-Wasserstein Barycenter for Large-Scale Multilevel Clustering and Scalable Bayes [https://arxiv.org/abs/1910.04483 url]
+- *Le, T.*, Ho, N., *Yamada, M.* \n
+Fast Tree Variants of Gromov-Wasserstein. [https://arxiv.org/abs/1910.04462 url]
+- Liu, Y., *Yamada, M.*, Tsai, Y-H-H, *Le, T.*, Salakuhtdinov, R., Yang, Y.\n
+LSMI-Sinkhorn: Semi-supervised Squared-Loss Mutual Information Estimation with Optimal Transport. [https://arxiv.org/abs/1909.02373 url]
+
 == 2020
 - Liu, Y., Zhu, L., *Yamada, M.*, Yang, Y.\n
 Semantic Correspondence as an Optimal Transport Problem \n
