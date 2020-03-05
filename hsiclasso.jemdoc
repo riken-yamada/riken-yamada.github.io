@@ -72,7 +72,7 @@ To compute the solutions of HSIC Lasso, we use the [http://www.ibis.t.u-tokyo.ac
 I am grateful to Prof. [http://sugiyama-www.cs.titech.ac.jp/~sugi/ Masashi Sugiyama] and Dr. [http://cs.brown.edu/~ls/ Leonid Sigal] for their support in developing this software.
 
 == Contact
-I am happy to have any kind of feedbacks. E-mail: $\textnormal{makotoy@yahoo-inc.com}$
+I am happy to have any kind of feedbacks. E-mail: $\texttt{makoto.yamada@riken.jp}$
 
 == Reference
 - *Yamada, M.*, Jitkrittum, W., [http://www.cs.brown.edu/~ls/ Sigal, L.], [http://www.cs.cmu.edu/~epxing/ Xing, E. P.] & [http://sugiyama-www.cs.titech.ac.jp/~sugi/ Sugiyama, M.] \n
