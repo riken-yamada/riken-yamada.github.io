@@ -1,6 +1,6 @@
 # jemdoc: menu{MENU}{index.html},showsource = RIKEN AIP,addcss{jemdoc.css}
 \n
-= High-Dimensional Statistical Modeling Unit (RIKEN AIP)
+= High-Dimensional Statistical Modeling Team (RIKEN AIP)
 
 We are focusing on developing machine learning algorithm for science including feature selection, topological data analysis, and transfer learning. In particular, we are interested in nonlinear algorithms for high-dimensional data. Ultimately, we want to build a machine learning framework to automatically find an important information from data.
 

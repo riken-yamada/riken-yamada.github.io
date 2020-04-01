@@ -1,1 +1,1 @@
-./jemdoc.py index.jemdoc
+./jemdoc3 -c mysite.conf *.jemdoc
