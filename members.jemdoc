@@ -3,14 +3,12 @@
 
 = High-Dimensional Statistical Modeling Team (RIKEN AIP)
 
-== PI
 ~~~
 {}{img_left}{images/yamada.jpg}{Makoto Yamada}{135px}{179px}{}\n
 [profile.html Makoto Yamada]\n
 $\texttt{makoto.yamada@riken.jp}$
 ~~~
 
-== Postdocs
 ~~~
 {}{img_left}{images/TamLe.png}{Tam Le}{150px}{150px}{}\n
 [https://tamle-ml.github.io/ Tam Le]\n $\texttt{tam.le@riken.jp}$
@@ -21,7 +19,11 @@ $\texttt{makoto.yamada@riken.jp}$
 [https://sites.google.com/site/dineshsinghindian/ Dinesh Singh]\n $\texttt{dinesh.singh@riken.jp}$
 ~~~
 
-== Part-time students at Kyoto University
+~~~
+{}{img_left}{images/hector.jpg}{Héctor Climente}{175px}{175px}{}\n
+[http://hclimente.eu/ Héctor Climente]\n $\texttt{hector.climente@riken.jp}$
+~~~
+
 - [http://ml.ist.i.kyoto-u.ac.jp/hayashi/ Shogo Hayashi] 
 - Shonosuke Harada 
 - Liu Yang 
@@ -30,9 +32,6 @@ $\texttt{makoto.yamada@riken.jp}$
 - Tatsuya Shiraishi 
 - Ayato Toyokuni
 
-== Current Interns
-- Mathis Petrovich (ENS Paris-Saclay)
-- Chao Liang (Zhejiang University)
 
 == Visiting Researchers
 - Hisashi Kashima (Kyoto University)
@@ -46,6 +45,8 @@ $\texttt{makoto.yamada@riken.jp}$
 - [https://sites.google.com/site/poignardbenjamin Benjamin Poignard] (Osaka University) 
 
 == Recent members
+- Mathis Petrovich (ENS Paris-Saclay)
+- Chao Liang (Zhejiang University)
 - Qiang Huang (Jilin University)
 - Shaoshen Wang (University of Technology Sydney)
 -  Jenning Lim (UCL)
