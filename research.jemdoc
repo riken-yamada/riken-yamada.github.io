@@ -1,42 +1,48 @@
 # jemdoc: menu{MENU}{publication.html},showsource = Makoto Yamada,addcss{jemdoc.css}
 
-= Publications
-== Preprint
-- Petrovich, M., Liang, C., Liu, Y., Tsai, Y-H-H, Zhu, L., Yang, Y., Salakhutdinov, R., Yamada, M.\n
-Feature Robust Optimal Transport for High-dimensional Data [https://arxiv.org/abs/2005.12123 arXiv]
-- Ziyin, L., Wang, Z., Yamada, M., Ueda, M. \n
-Volumization as a Natural Generalization of Weight Decay. [https://arxiv.org/abs/2003.11243 arXiv]
-- Petrovich, M., Yamada, M. \n
-Fast local linear regression with anchor regularization. [https://arxiv.org/abs/2003.05747 arXiv]
-- Sato, R., Yamada, M., Kashima, H. \n
-Random Features Strengthen Graph Neural Networks. [https://arxiv.org/abs/2002.03155 arXiv]
-- Sato, R., Cuturi, M., Yamada, M., Kashima, H. \n
-Fast and Robust Comparison of Probability Measures in Heterogeneous Spaces. [https://arxiv.org/abs/2002.01615 arXiv]
-- Sato, R., Yamada, M., Kashima, H. \n
-Constant time graph neural networks. [https://arxiv.org/abs/1901.07868 arXiv]
+= Main Research topics
+
+== Selective inference
+- Lim, J., Yamada, M., Jitkrittum, W., Terada, Y., Matsui, S., Shimodaira, H. \n
+More Powerful Selective Kernel Tests for Feature Selection\n
+In Proceedings of the [http://www.aistats.org/ International Conference on Artificial Intelligence and Statistics (AISTATS2020)]. to appear.
+
+== High-dimensional Nonlinear Modeling
 - Singh, D., Yamada, M. \n
 FsNet: Feature Selection Network on High-dimensional Biological Data. [https://arxiv.org/abs/2001.08322 arXiv]
-- Huang, Q., Yamada, M., Tian, Y., Singh, D., Yin, D., Chang, Y.\n
-GraphLIME: Local Interpretable Model Explanations for Graph Neural Networks. [https://arxiv.org/abs/2001.06216 arXiv]
+- Petrovich, M., Yamada, M. \n
+Fast local linear regression with anchor regularization. [https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/245860 pdf]
+
+== Optimal Transport
+- Sato, R., Cuturi, M., Yamada, M., Kashima, H. \n
+Fast and Robust Comparison of Probability Measures in Heterogeneous Spaces. [https://arxiv.org/abs/2002.01615 arXiv]
 - Le, T., Huynh, V., Ho, N., Phung, D., Yamada, M.\n
 Tree-Wasserstein Barycenter for Large-Scale Multilevel Clustering and Scalable Bayes [https://arxiv.org/abs/1910.04483 arXiv]
 - Le, T., Ho, N., Yamada, M. \n
 Fast Tree Variants of Gromov-Wasserstein. [https://arxiv.org/abs/1910.04462 arXiv]
 - Liu, Y., Yamada, M., Tsai, Y-H-H, Le, T., Salakuhtdinov, R., Yang, Y.\n
 LSMI-Sinkhorn: Semi-supervised Squared-Loss Mutual Information Estimation with Optimal Transport. [https://arxiv.org/abs/1909.02373 arXiv]
-
-== 2020
 - Liu, Y., Zhu, L., Yamada, M., Yang, Y.\n
 Semantic Correspondence as an Optimal Transport Problem \n
 In Proceedings of [http://cvpr2020.thecvf.com/ CVPR 2020].
+
+== Graph Neural Networks
+- Sato, R., Yamada, M., Kashima, H. \n
+Random Features Strengthen Graph Neural Networks. [https://arxiv.org/abs/2002.03155 arXiv]
+- Sato, R., Yamada, M., Kashima, H. \n
+Constant time graph neural networks. [https://arxiv.org/abs/1901.07868 arXiv]
+- Huang, Q., Yamada, M., Tian, Y., Singh, D., Yin, D., Chang, Y.\n
+GraphLIME: Local Interpretable Model Explanations for Graph Neural Networks. [https://arxiv.org/abs/2001.06216 arXiv]
+
+== General Deep Learning
+- Ziyin, L., Wang, Z., Yamada, M., Ueda, M. \n
+Volumization as a Natural Generalization of Weight Decay. [https://arxiv.org/abs/2003.11243 arXiv]
+
 - Shiraishi, T., Le, T., Kashima, H., Yamada, M. \n
 Topological Bayesian Optimization with Persistence Diagrams. \n
 In Proceedings of the [http://ecai2020.eu/ 24th European Conference on Artificial Intelligence (ECAI 2020)].
 - Poignard, B., Yamada, M. \n
 Sparse Hilbert-Schmidt Independence Criterion Regression.\n
-In Proceedings of the [http://www.aistats.org/ International Conference on Artificial Intelligence and Statistics (AISTATS2020)]. to appear.
-- Lim, J., Yamada, M., Jitkrittum, W., Terada, Y., Matsui, S., Shimodaira, H. \n
-More Powerful Selective Kernel Tests for Feature Selection\n
 In Proceedings of the [http://www.aistats.org/ International Conference on Artificial Intelligence and Statistics (AISTATS2020)]. to appear.
 - Huang, Q., Xia, T., Sun, H., Yamada, M., Chang, Y. \n
 Unsupervised Nonlinear Feature Selection from High-dimensional Signed Networks. \n
@@ -47,8 +53,6 @@ npj Computational Materials volume 5, Article number: 124 (2019)
 - Wimalawarne, K., Yamada, M.,  Mamitsuka, H. \n
 Scaled Coupled Norms and Coupled Higher Order Tensor Completion.\n
 Neural Computation (NECO), 2020.
-- Takahashi, Y., Ueki, M., Yamada, M., Tamiya, G., Motoike, I., Saigusa, D., Sakurai, M., Nagami, F., Ogishima, S., Koshiba, S., Kinoshita, K., Yamamoto, M.,  Tomita, H. \n
-Improved metabolomic data-based prediction of depressive symptoms using nonlinear machine learning with feature selection. [https://www.nature.com/articles/s41398-020-0831-9 paper] 
 
 == 2019
 - Sato, R., Yamada, M., [https://hkashima.github.io/index.html Kashima, H.]\n
