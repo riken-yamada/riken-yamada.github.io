@@ -3,7 +3,7 @@
 = Publications
 == Preprint
 - Petrovich, M., Liang, C., Liu, Y., Tsai, Y-H-H, Zhu, L., Yang, Y., Salakhutdinov, R., Yamada, M.\n
-Feature Robust Optimal Transport for High-dimensional Data [https://arxiv.org/abs/2005.12123 arXiv]
+Feature Robust Optimal Transport for High-dimensional Data. [https://arxiv.org/abs/2005.12123 arXiv]
 - Ziyin, L., Wang, Z., Yamada, M., Ueda, M. \n
 Volumization as a Natural Generalization of Weight Decay. [https://arxiv.org/abs/2003.11243 arXiv]
 - Petrovich, M., Yamada, M. \n
@@ -41,14 +41,13 @@ In Proceedings of the [http://www.aistats.org/ International Conference on Artif
 - Huang, Q., Xia, T., Sun, H., Yamada, M., Chang, Y. \n
 Unsupervised Nonlinear Feature Selection from High-dimensional Signed Networks. \n
 The 34th AAAI Conference on Artificial Intelligence (AAAI), 2020.
-- Saito, Y., Shin, K., Terayama, K., Desai, S., Onga, M., Nakagawa, Y., Itahashi, Y.M., Iwasa, Y., Yamada, Y., Koji Tsuda\n 
-Deep-learning-based quality filtering of mechanically exfoliated 2D crystals \n
-npj Computational Materials volume 5, Article number: 124 (2019) 
 - Wimalawarne, K., Yamada, M.,  Mamitsuka, H. \n
 Scaled Coupled Norms and Coupled Higher Order Tensor Completion.\n
 Neural Computation (NECO), 2020.
 - Takahashi, Y., Ueki, M., Yamada, M., Tamiya, G., Motoike, I., Saigusa, D., Sakurai, M., Nagami, F., Ogishima, S., Koshiba, S., Kinoshita, K., Yamamoto, M.,  Tomita, H. \n
-Improved metabolomic data-based prediction of depressive symptoms using nonlinear machine learning with feature selection. [https://www.nature.com/articles/s41398-020-0831-9 paper] 
+Improved metabolomic data-based prediction of depressive symptoms using nonlinear machine learning with feature selection.\n 
+Translational Psychiatry volume 10, Article number: 157 (2020). [https://www.nature.com/articles/s41398-020-0831-9 paper]
+ 
 
 == 2019
 - Sato, R., Yamada, M., [https://hkashima.github.io/index.html Kashima, H.]\n
@@ -93,6 +92,9 @@ Nature Protocols.
 - Kobayashi, H., Lei, C., Wu, Y., Huang, C-J., Yasumoto, A.,  Jona, M., Li, W., Wu, Y., Yalikun, Y., Jiang, Y., Guo, B., Sun, C-W., Tanaka, Y., Yamada, M.,  Yatomi, Y., Goda, K.\n
 Intelligent whole-blood imaging flow cytometry for simple, rapid, and cost-effective drug-susceptibility testing of leukemia \n
 Lab on a Chip, 2019.
+- Saito, Y., Shin, K., Terayama, K., Desai, S., Onga, M., Nakagawa, Y., Itahashi, Y.M., Iwasa, Y., Yamada, Y., Koji Tsuda\n
+Deep-learning-based quality filtering of mechanically exfoliated 2D crystals \n
+npj Computational Materials volume 5, Article number: 124 (2019)
 
 == 2018
 - Liu, Z., [https://yaohungt.github.io/ Tsai Y-H-H.], Yamada, M., [http://www.cs.cmu.edu/~rsalakhu/ Salakhutdinov, R.] \n
