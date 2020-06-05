@@ -2,6 +2,8 @@
 
 = Publications
 == Preprint
+- Sato, R., Yamada, M., Kashima, H.\n
+Fast Unbalanced Optimal Transport on Tree. [https://arxiv.org/abs/2006.02703 arXiv]
 - Petrovich, M., Liang, C., Liu, Y., Tsai, Y-H-H, Zhu, L., Yang, Y., Salakhutdinov, R., Yamada, M.\n
 Feature Robust Optimal Transport for High-dimensional Data. [https://arxiv.org/abs/2005.12123 arXiv]
 - Ziyin, L., Wang, Z., Yamada, M., Ueda, M. \n
@@ -15,7 +17,7 @@ Fast and Robust Comparison of Probability Measures in Heterogeneous Spaces. [htt
 - Sato, R., Yamada, M., Kashima, H. \n
 Constant time graph neural networks. [https://arxiv.org/abs/1901.07868 arXiv]
 - Singh, D., Yamada, M. \n
-FsNet: Feature Selection Network on High-dimensional Biological Data. [https://arxiv.org/abs/2001.08322 arXiv]
+FsNet: Feature Selection Network on High-dimensional Biological Data. [https://arxiv.org/abs/2001.08322 arXiv] \[[https://github.com/dineshsinghindian/fsnet Github]\]
 - Huang, Q., Yamada, M., Tian, Y., Singh, D., Yin, D., Chang, Y.\n
 GraphLIME: Local Interpretable Model Explanations for Graph Neural Networks. [https://arxiv.org/abs/2001.06216 arXiv]
 - Le, T., Huynh, V., Ho, N., Phung, D., Yamada, M.\n
