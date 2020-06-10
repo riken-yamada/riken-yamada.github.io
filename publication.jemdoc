@@ -39,7 +39,7 @@ Sparse Hilbert-Schmidt Independence Criterion Regression.\n
 In Proceedings of the [http://www.aistats.org/ International Conference on Artificial Intelligence and Statistics (AISTATS2020)]. to appear.
 - Lim, J., Yamada, M., Jitkrittum, W., Terada, Y., Matsui, S., Shimodaira, H. \n
 More Powerful Selective Kernel Tests for Feature Selection\n
-In Proceedings of the [http://www.aistats.org/ International Conference on Artificial Intelligence and Statistics (AISTATS2020)]. to appear.
+In Proceedings of the [http://www.aistats.org/ International Conference on Artificial Intelligence and Statistics (AISTATS2020)]. to appear. [https://github.com/jenninglim/multiscale-features Github]
 - Huang, Q., Xia, T., Sun, H., Yamada, M., Chang, Y. \n
 Unsupervised Nonlinear Feature Selection from High-dimensional Signed Networks. \n
 The 34th AAAI Conference on Artificial Intelligence (AAAI), 2020.
@@ -60,7 +60,7 @@ Tree-Sliced Variants of Wasserstein Distances.\n
 [https://nips.cc/ Advances in Neural Information Processing Systems (NeurIPS 2019)].
 - Lim, J., Yamada, M., Schoelkopf, B., Jitkrittum, W.\n
 Kernel Stein Tests for Multiple Model Comparison.\n
-[https://nips.cc/ Advances in Neural Information Processing Systems (NeurIPS 2019)].
+[https://nips.cc/ Advances in Neural Information Processing Systems (NeurIPS 2019)]. [https://github.com/jenninglim/model-comparison-test Github] 
 - Sato, R., Yamada, M., Kashima, H.\n
 Learning to Sample Hard Instances for Graph Algorithms.\n
 The 11th Asian Conference on Machine Learning (ACML), 2019.
