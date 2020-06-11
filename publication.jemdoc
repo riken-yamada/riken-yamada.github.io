@@ -2,10 +2,12 @@
 
 = Publications
 == Preprint
+- Tsai, Y-H-H., Zhao, H., Yamada, M., Morency, L-P, Salakhutdinov.\n
+[https://arxiv.org/pdf/2006.05553 Neural Methods for Point-wise Dependency Estimation].
 - Sato, R., Yamada, M., Kashima, H.\n
-Fast Unbalanced Optimal Transport on Tree. [https://arxiv.org/abs/2006.02703 arXiv]
+[https://arxiv.org/abs/2006.02703 Fast Unbalanced Optimal Transport on Tree]. 
 - Petrovich, M., Liang, C., Liu, Y., Tsai, Y-H-H, Zhu, L., Yang, Y., Salakhutdinov, R., Yamada, M.\n
-Feature Robust Optimal Transport for High-dimensional Data. [https://arxiv.org/abs/2005.12123 arXiv]
+[https://arxiv.org/abs/2005.12123 Feature Robust Optimal Transport for High-dimensional Data]. 
 - Ziyin, L., Wang, Z., Yamada, M., Ueda, M. \n
 Volumization as a Natural Generalization of Weight Decay. [https://arxiv.org/abs/2003.11243 arXiv]
 - Petrovich, M., Yamada, M. \n
@@ -17,7 +19,8 @@ Fast and Robust Comparison of Probability Measures in Heterogeneous Spaces. [htt
 - Sato, R., Yamada, M., Kashima, H. \n
 Constant time graph neural networks. [https://arxiv.org/abs/1901.07868 arXiv]
 - Singh, D., Yamada, M. \n
-FsNet: Feature Selection Network on High-dimensional Biological Data. [https://arxiv.org/abs/2001.08322 arXiv] \[[https://github.com/dineshsinghindian/fsnet Github]\]
+FsNet: Feature Selection Network on High-dimensional Biological Data. [https://arxiv.org/abs/2001.08322 arXiv]\n
+ \[[https://github.com/dineshsinghindian/fsnet Code]\]
 - Huang, Q., Yamada, M., Tian, Y., Singh, D., Yin, D., Chang, Y.\n
 GraphLIME: Local Interpretable Model Explanations for Graph Neural Networks. [https://arxiv.org/abs/2001.06216 arXiv]
 - Le, T., Huynh, V., Ho, N., Phung, D., Yamada, M.\n
@@ -39,7 +42,8 @@ Sparse Hilbert-Schmidt Independence Criterion Regression.\n
 In Proceedings of the [http://www.aistats.org/ International Conference on Artificial Intelligence and Statistics (AISTATS2020)]. to appear.
 - Lim, J., Yamada, M., Jitkrittum, W., Terada, Y., Matsui, S., Shimodaira, H. \n
 More Powerful Selective Kernel Tests for Feature Selection\n
-In Proceedings of the [http://www.aistats.org/ International Conference on Artificial Intelligence and Statistics (AISTATS2020)]. to appear. [https://github.com/jenninglim/multiscale-features Github]
+In Proceedings of the [http://www.aistats.org/ International Conference on Artificial Intelligence and Statistics (AISTATS2020)]. to appear. \n
+\[[https://github.com/jenninglim/multiscale-features Code]\]
 - Huang, Q., Xia, T., Sun, H., Yamada, M., Chang, Y. \n
 Unsupervised Nonlinear Feature Selection from High-dimensional Signed Networks. \n
 The 34th AAAI Conference on Artificial Intelligence (AAAI), 2020.
