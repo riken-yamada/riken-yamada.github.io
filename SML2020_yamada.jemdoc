@@ -21,7 +21,7 @@ This course will cover in a broad sense the fundamental theoretical aspects and 
 
 == Lecture Slides
 . [Course/2020/Feature_Selection_and_Sparsity.pdf Feature Selection and Sparsity]
-#. [Course/2020/Dimensionality_reduction.pdf Dimensionality Reduction]
+. [Course/2020/Dimensionality_reduction.pdf Dimensionality Reduction]
 #. [Course/2020/SML2019_industries.pdf Matrix Completion and Active Learning]
 #. [Course/2020/Model_Ensemble.pdf Model Ensemble]
 #. [Course/2020/Semi_supervised_Learning.pdf Semi-supervised Learning/Transfer Learning]
