@@ -2,6 +2,8 @@
 
 = Publications
 == Preprint
+- Nguyen, Vu*, Le, T.*, Yamada, M., Osborne, M. A. (*equal contribution)\n
+Optimal Transport Kernels for Sequential and Parallel Neural Architecture Search
 - Petrovich, M., Liang, C., Liu, Y., Tsai, Y-H-H, Zhu, L., Yang, Y., Salakhutdinov, R., Yamada, M.\n
 [https://arxiv.org/abs/2005.12123 Feature Robust Optimal Transport for High-dimensional Data]. 
 - Ziyin, L., Wang, Z., Yamada, M., Ueda, M. \n
@@ -29,7 +31,7 @@ LSMI-Sinkhorn: Semi-supervised Squared-Loss Mutual Information Estimation with O
 == 2020
 - Tsai, Y-H-H., Zhao, H., Yamada, M., Morency, L-P, Salakhutdinov.\n
 [https://arxiv.org/pdf/2006.05553 Neural Methods for Point-wise Dependency Estimation].\n
-[https://nips.cc/ Advances in Neural Information Processing Systems (NeurIPS 2020)], (Spotlight) to appear.
+[https://nips.cc/ Advances in Neural Information Processing Systems (NeurIPS 2020)], (Spotlight).
 - Sato, R., Yamada, M., Kashima, H.\n
 [https://arxiv.org/abs/2006.02703 Fast Unbalanced Optimal Transport on Tree].\n
 [https://nips.cc/ Advances in Neural Information Processing Systems (NeurIPS 2020)]
@@ -41,10 +43,10 @@ Topological Bayesian Optimization with Persistence Diagrams. \n
 In Proceedings of the [http://ecai2020.eu/ 24th European Conference on Artificial Intelligence (ECAI 2020)].
 - Poignard, B., Yamada, M. \n
 Sparse Hilbert-Schmidt Independence Criterion Regression.\n
-In Proceedings of the [http://www.aistats.org/ International Conference on Artificial Intelligence and Statistics (AISTATS2020)]. to appear.
+In Proceedings of the [http://www.aistats.org/ International Conference on Artificial Intelligence and Statistics (AISTATS2020)].
 - Lim, J., Yamada, M., Jitkrittum, W., Terada, Y., Matsui, S., Shimodaira, H. \n
 More Powerful Selective Kernel Tests for Feature Selection\n
-In Proceedings of the [http://www.aistats.org/ International Conference on Artificial Intelligence and Statistics (AISTATS2020)]. to appear. \n
+In Proceedings of the [http://www.aistats.org/ International Conference on Artificial Intelligence and Statistics (AISTATS2020)]. \n
 \[[https://github.com/jenninglim/multiscale-features Code]\]
 - Huang, Q., Xia, T., Sun, H., Yamada, M., Chang, Y. \n
 Unsupervised Nonlinear Feature Selection from High-dimensional Signed Networks. \n
