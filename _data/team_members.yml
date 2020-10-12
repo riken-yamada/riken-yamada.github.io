@@ -2,6 +2,7 @@
   photo: yamada.jpg
   info: Team Leader
   email: makoto.yamada@riken.jp
+  hp: 
   number_educ: 0
   #education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
   #education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
@@ -13,24 +14,28 @@
   photo: TamLe.png
   info: Postdoc
   email: tam.le@riken.jp
+  hp: https://tamle-ml.github.io/ 
   number_educ: 0
 
 - name: Dinesh Singh
   photo: dinesh.jpg
   info: Postdoc
   email: dinesh.singh@riken.jp
+  hp: https://sites.google.com/site/dineshsinghindian/
   number_educ: 0
 
 - name: Hector Clemente Gonzarez
   photo: hector.png
   info: Postdoc
   email: hector.clemente@riken.jp
+  hp: https://hclimente.eu/
   number_educ: 0
 
 - name: Shogo Hayashi
   photo: alumni.png
   info: Ph.D. student
   email: shogo.hayashi@riken.jp
+  hp: http://ml.ist.i.kyoto-u.ac.jp/hayashi/  
   number_educ: 0
   education1:
 
@@ -38,6 +43,7 @@
   photo: alumni.png
   info: Ph.D. student
   email: shonosuke.harada@riken.jp
+  hp: 
   number_educ: 0
   education1:
 
@@ -52,6 +58,7 @@
   photo: alumni.png
   info: Master student
   email: ryoma.sato@riken.jp
+  hp: https://joisino.net/en/
   number_educ: 0
   education1:
 

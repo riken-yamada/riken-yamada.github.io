@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for a Postdoc and interns to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-## Staff
+## Members
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -23,8 +23,8 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <h4><a href="{{member.hp}}">{{ member.name }}</a></h4>
+  <i>{{ member.info }}<br>email: <{{ member.email }}> </i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
