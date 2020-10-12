@@ -6,15 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are focusing on developing machine learning algorithm for science including feature selection, topological data analysis, and transfer learning. In particular, we are interested in nonlinear algorithms for high-dimensional data. Ultimately, we want to build a machine learning framework to automatically find an important information from data.
-
-Currently, we are focusing on
-
-Selective inference with kernels.
-
-High-dimensional nonlinear feature selection.
-
-Optimal transport.
+We are focusing on developing machine learning algorithm for science including feature selection, topological data analysis, graph neural network, optimal transport and transfer learning.
 
 <!---
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
