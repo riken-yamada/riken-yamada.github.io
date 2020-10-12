@@ -56,7 +56,20 @@ permalink: /publications/
 
 {% for publi in site.data.publist %}
 
-  <a href="{{ publi.link.paperurl }}">{{ publi.title }}</a> <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.venueurl }}">{{ publi.link.display }}</a>
+  {{ publi.title }}  <br>
+  <em>{{ publi.authors }}</em><br><a href="{{ publi.link.venueurl }}">{{ publi.link.display }}</a>
+
+ {% if publi.ispdf  == 1 %}
+  {% if publi.iscode  == 1 %}
+  <button type="button" class="btn btn-outline-primary btn-sm"><a href="{{ publi.link.codeurl }}" target="_blank" rel="noopener">PDF</a></button>
+  <button type="button" class="btn btn-outline-primary btn-sm"><a href="{{ publi.link.codeurl }}" target="_blank" rel="noopener">Code</a></button>
+  {% endif %}
+  {% endif %}
+
+  {% if publi.ispdf  == 1 %}
+  {% if publi.iscode  == 0 %}
+  <button type="button" class="btn btn-outline-primary btn-sm"><a href="{{ publi.link.codeurl }}" target="_blank" rel="noopener">PDF</a></button>
+  {% endif %}
+  {% endif %}
 
 {% endfor %}

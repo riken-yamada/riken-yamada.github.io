@@ -5,7 +5,10 @@
   link: 
     paperurl: https://arxiv.org/abs/2006.05553
     venueurl: https://neurips.cc/
+    codeurl: https://github.com/yaohungt/Self_Supervised_Learning_Multiview 
     display: NeurIPS 2020
+  ispdf: 1
+  iscode: 1
   highlight: 0
   news2:
 
@@ -17,6 +20,8 @@
     paperurl: https://arxiv.org/abs/2006.02703
     venueurl: https://neurips.cc/
     display: NeurIPS 2020
+  ispdf: 1
+  iscode: 0
   highlight: 0
   news2:
 
@@ -72,149 +77,6 @@
     paperurl: http://proceedings.mlr.press/v108/lim20a.html
     venueurl:
     display: AISTATS 2020
-  highlight: 0
-  news2:
-
-- title: ""
-  image: ""
-  description: ""
-  authors: 
-  link:
-    paperurl:
-    venueurl:
-    display:
-  highlight: 0
-  news2:
-
-- title: ""
-  image: ""
-  description: ""
-  authors: 
-  link:
-    paperurl:
-    venueurl:
-    display:
-  highlight: 0
-  news2:
-
-- title: ""
-  image: ""
-  description: ""
-  authors: 
-  link:
-    paperurl:
-    venueurl:
-    display:
-  highlight: 0
-  news2:
-
-- title: ""
-  image: ""
-  description: ""
-  authors: 
-  link:
-    paperurl:
-    venueurl:
-    display:
-  highlight: 0
-  news2:
-
-- title: ""
-  image: ""
-  description: ""
-  authors: 
-  link:
-    paperurl:
-    venueurl:
-    display:
-  highlight: 0
-  news2:
-
-- title: ""
-  image: ""
-  description: ""
-  authors: 
-  link:
-    paperurl:
-    venueurl:
-    display:
-  highlight: 0
-  news2:
-
-- title: ""
-  image: ""
-  description: ""
-  authors: 
-  link:
-    paperurl:
-    venueurl:
-    display:
-  highlight: 0
-  news2:
-
-- title: ""
-  image: ""
-  description: ""
-  authors: 
-  link:
-    paperurl:
-    venueurl:
-    display:
-  highlight: 0
-  news2:
-
-- title: ""
-  image: ""
-  description: ""
-  authors: 
-  link:
-    paperurl:
-    venueurl:
-    display:
-  highlight: 0
-  news2:
-
-- title: ""
-  image: ""
-  description: ""
-  authors: 
-  link:
-    paperurl:
-    venueurl:
-    display:
-  highlight: 0
-  news2:
-
-- title: ""
-  image: ""
-  description: ""
-  authors: 
-  link:
-    paperurl:
-    venueurl:
-    display:
-  highlight: 0
-  news2:
-
-- title: ""
-  image: ""
-  description: ""
-  authors: 
-  link:
-    paperurl:
-    venueurl:
-    display:
-  highlight: 0
-  news2:
-
-- title: ""
-  image: ""
-  description: ""
-  authors: 
-  link:
-    paperurl:
-    venueurl:
-    display:
   highlight: 0
   news2:
 
