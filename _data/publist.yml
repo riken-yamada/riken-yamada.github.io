@@ -43,7 +43,10 @@
   link:
     pdfurl: https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Semantic_Correspondence_as_an_Optimal_Transport_Problem_CVPR_2020_paper.pdf
     venururl: http://cvpr2020.thecvf.com/
+    codeurl: https://github.com/csyanbin/SCOT
     display: CVPR 2020
+  ispdf: 1
+  iscode: 1
   highlight: 0
   news2:
 
@@ -55,6 +58,8 @@
     pdfurl: https://ecai2020.eu/papers/330_paper.pdf
     venueurl:
     display: ECAI 2020
+  ispdf: 1
+  iscode: 0
   highlight: 0
   news2:
 
@@ -66,6 +71,8 @@
     pdfurl: http://proceedings.mlr.press/v108/poignard20a.html
     venueurl:
     display: AISTATS 2020
+  ispdf: 1
+  iscode: 0
   highlight: 0
   news2:
 
@@ -76,7 +83,10 @@
   link:
     pdfurl: http://proceedings.mlr.press/v108/lim20a.html
     venueurl:
+    codeurl: https://github.com/jenninglim/multiscale-features
     display: AISTATS 2020
+  ispdf: 1
+  iscode: 1
   highlight: 0
   news2:
 
