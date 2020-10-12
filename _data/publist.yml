@@ -1,0 +1,222 @@
+- title: "Neural Methods for Point-wise Dependency Estimation"   
+  image: ""
+  description: ""
+  authors: Yao-Hung Hubert Tsai, Han Zhao, Makoto Yamada, Louis-Philippe Morency, Ruslan Salakhutdinov
+  link: 
+    paperurl: https://arxiv.org/abs/2006.05553
+    venueurl: https://neurips.cc/
+    display: NeurIPS 2020
+  highlight: 0
+  news2:
+
+- title: "Fast Unbalanced Optimal Transport on Tree"   
+  image: ""
+  description: ""
+  authors: Ryoma Sato, Makoto Yamada, Hisashi Kashima 
+  link:
+    paperurl: https://arxiv.org/abs/2006.02703
+    venueurl: https://neurips.cc/
+    display: NeurIPS 2020
+  highlight: 0
+  news2:
+
+- title: "Simultaneous Link Prediction on Unaligned Networks Using Graph Embedding and Optimal Transport"   
+  image: ""
+  description: ""
+  authors: Luu Huu Phuc, Koh Takeuchi, Makoto Yamada, Hisashi Kashima
+  link:
+    paperurl:
+    venueurl:  
+    display: DSAA, 2020 
+  highlight: 0
+  news2:
+
+- title: "Semantic Correspondence as an Optimal Transport Problem"   
+  image: ""
+  description: ""
+  authors: Yanbin Liu, Linchao Zhu, Makoto Yamada, Yi Yang
+  link:
+    paperurl: https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Semantic_Correspondence_as_an_Optimal_Transport_Problem_CVPR_2020_paper.pdf
+    venururl: http://cvpr2020.thecvf.com/
+    display: CVPR 2020
+  highlight: 0
+  news2:
+
+- title: "Topological Bayesian Optimization with Persistence Diagrams"   
+  image: ""
+  description: ""
+  authors: Tatsuya Shiraishi, Tam Le, Hisashi Kashima, Makoto Yamada
+  link:
+    paperurl: https://ecai2020.eu/papers/330_paper.pdf
+    venueurl:
+    display: ECAI 2020
+  highlight: 0
+  news2:
+
+- title: "Sparse Hilbert-Schmidt Independence Criterion Regression"
+  image: ""
+  description: ""
+  authors: Benjamin Poignard, Makoto Yamada
+  link:
+    paperurl: http://proceedings.mlr.press/v108/poignard20a.html
+    venueurl:
+    display: AISTATS 2020
+  highlight: 0
+  news2:
+
+- title: "More Powerful Selective Kernel Tests for Feature Selection"
+  image: ""
+  description: ""
+  authors: Jenning Lim, Makoto Yamada, Wittawat Jitkrittum, Yoshikazu Terada, Shigeyuki Matsui, Hidetoshi Shimodaira
+  link:
+    paperurl: http://proceedings.mlr.press/v108/lim20a.html
+    venueurl:
+    display: AISTATS 2020
+  highlight: 0
+  news2:
+
+- title: ""
+  image: ""
+  description: ""
+  authors: 
+  link:
+    paperurl:
+    venueurl:
+    display:
+  highlight: 0
+  news2:
+
+- title: ""
+  image: ""
+  description: ""
+  authors: 
+  link:
+    paperurl:
+    venueurl:
+    display:
+  highlight: 0
+  news2:
+
+- title: ""
+  image: ""
+  description: ""
+  authors: 
+  link:
+    paperurl:
+    venueurl:
+    display:
+  highlight: 0
+  news2:
+
+- title: ""
+  image: ""
+  description: ""
+  authors: 
+  link:
+    paperurl:
+    venueurl:
+    display:
+  highlight: 0
+  news2:
+
+- title: ""
+  image: ""
+  description: ""
+  authors: 
+  link:
+    paperurl:
+    venueurl:
+    display:
+  highlight: 0
+  news2:
+
+- title: ""
+  image: ""
+  description: ""
+  authors: 
+  link:
+    paperurl:
+    venueurl:
+    display:
+  highlight: 0
+  news2:
+
+- title: ""
+  image: ""
+  description: ""
+  authors: 
+  link:
+    paperurl:
+    venueurl:
+    display:
+  highlight: 0
+  news2:
+
+- title: ""
+  image: ""
+  description: ""
+  authors: 
+  link:
+    paperurl:
+    venueurl:
+    display:
+  highlight: 0
+  news2:
+
+- title: ""
+  image: ""
+  description: ""
+  authors: 
+  link:
+    paperurl:
+    venueurl:
+    display:
+  highlight: 0
+  news2:
+
+- title: ""
+  image: ""
+  description: ""
+  authors: 
+  link:
+    paperurl:
+    venueurl:
+    display:
+  highlight: 0
+  news2:
+
+- title: ""
+  image: ""
+  description: ""
+  authors: 
+  link:
+    paperurl:
+    venueurl:
+    display:
+  highlight: 0
+  news2:
+
+- title: ""
+  image: ""
+  description: ""
+  authors: 
+  link:
+    paperurl:
+    venueurl:
+    display:
+  highlight: 0
+  news2:
+
+- title: ""
+  image: ""
+  description: ""
+  authors: 
+  link:
+    paperurl:
+    venueurl:
+    display:
+  highlight: 0
+  news2:
+
+
+
