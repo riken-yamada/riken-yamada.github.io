@@ -3,7 +3,7 @@
   description: ""
   authors: Yao-Hung Hubert Tsai, Han Zhao, Makoto Yamada, Louis-Philippe Morency, Ruslan Salakhutdinov
   link: 
-    paperurl: https://arxiv.org/abs/2006.05553
+    pdfurl: https://arxiv.org/abs/2006.05553
     venueurl: https://neurips.cc/
     codeurl: https://github.com/yaohungt/Self_Supervised_Learning_Multiview 
     display: NeurIPS 2020
@@ -17,7 +17,7 @@
   description: ""
   authors: Ryoma Sato, Makoto Yamada, Hisashi Kashima 
   link:
-    paperurl: https://arxiv.org/abs/2006.02703
+    pdfurl: https://arxiv.org/abs/2006.02703
     venueurl: https://neurips.cc/
     display: NeurIPS 2020
   ispdf: 1
@@ -30,7 +30,7 @@
   description: ""
   authors: Luu Huu Phuc, Koh Takeuchi, Makoto Yamada, Hisashi Kashima
   link:
-    paperurl:
+    pdfurl:
     venueurl:  
     display: DSAA, 2020 
   highlight: 0
@@ -41,7 +41,7 @@
   description: ""
   authors: Yanbin Liu, Linchao Zhu, Makoto Yamada, Yi Yang
   link:
-    paperurl: https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Semantic_Correspondence_as_an_Optimal_Transport_Problem_CVPR_2020_paper.pdf
+    pdfurl: https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Semantic_Correspondence_as_an_Optimal_Transport_Problem_CVPR_2020_paper.pdf
     venururl: http://cvpr2020.thecvf.com/
     display: CVPR 2020
   highlight: 0
@@ -52,7 +52,7 @@
   description: ""
   authors: Tatsuya Shiraishi, Tam Le, Hisashi Kashima, Makoto Yamada
   link:
-    paperurl: https://ecai2020.eu/papers/330_paper.pdf
+    pdfurl: https://ecai2020.eu/papers/330_paper.pdf
     venueurl:
     display: ECAI 2020
   highlight: 0
@@ -63,7 +63,7 @@
   description: ""
   authors: Benjamin Poignard, Makoto Yamada
   link:
-    paperurl: http://proceedings.mlr.press/v108/poignard20a.html
+    pdfurl: http://proceedings.mlr.press/v108/poignard20a.html
     venueurl:
     display: AISTATS 2020
   highlight: 0
@@ -74,7 +74,7 @@
   description: ""
   authors: Jenning Lim, Makoto Yamada, Wittawat Jitkrittum, Yoshikazu Terada, Shigeyuki Matsui, Hidetoshi Shimodaira
   link:
-    paperurl: http://proceedings.mlr.press/v108/lim20a.html
+    pdfurl: http://proceedings.mlr.press/v108/lim20a.html
     venueurl:
     display: AISTATS 2020
   highlight: 0
