@@ -90,5 +90,87 @@
   highlight: 0
   news2:
 
+- title: "Unsupervised Nonlinear Feature Selection from High-dimensional Signed Networks"
+  image: ""
+  description: ""
+  authors: Qiang Huang, TingYu Xia, HuiYan Sun, Makoto Yamada, Yi Chang 
+  link:
+    pdfurl: https://aaai.org/ojs/index.php/AAAI/article/view/5839
+    venueurl:
+    codeurl: 
+    display: AAAI 2020
+  ispdf: 1
+  iscode: 0
+  highlight: 0
+  news2:
 
+- title: "Approximation Ratios of Graph Neural Networks for Combinatorial Problems"
+  image: ""
+  description: ""
+  authors: Ryoma Sato, Makoto Yamada, Hisashi Kashima 
+  link:
+    pdfurl: https://papers.nips.cc/paper/8662-approximation-ratios-of-graph-neural-networks-for-combinatorial-problems.pdf
+    venueurl:
+    codeurl: 
+    display: NeurIPS 2019 
+  ispdf: 1
+  iscode: 0
+  highlight: 0
+  news2:
+
+- title: "Tree-Sliced Variants of Wasserstein Distances"
+  image: ""
+  description: ""
+  authors: Tam Le, Makoto Yamada, Kenji Fukumizu, Marco Cuturi
+  link:
+    pdfurl: http://papers.nips.cc/paper/9396-tree-sliced-variants-of-wasserstein-distances.pdf
+    venueurl:
+    codeurl: https://github.com/lttam/TreeWasserstein
+    display: NeurIPS 2019
+  ispdf: 1
+  iscode: 1
+  highlight: 0
+  news2:
+
+- title: "Kernel Stein Tests for Multiple Model Comparison"
+  image: ""
+  description: ""
+  authors: Jenning Lim, Makoto Yamada, Bernhard Schoelkopf, Wittawat Jitkrittum 
+  link:
+    pdfurl: https://papers.nips.cc/paper/8496-kernel-stein-tests-for-multiple-model-comparison.pdf
+    venueurl:
+    codeurl: https://github.com/jenninglim/model-comparison-test
+    display: NeurIPS 2019
+  ispdf: 1
+  iscode: 1
+  highlight: 0
+  news2:
+
+- title: "Learning to Sample Hard Instances for Graph Algorithms"
+  image: ""
+  description: ""
+  authors: Ryoma Sato, Makoto Yamada, Hisashi Kashima 
+  link:
+    pdfurl: http://proceedings.mlr.press/v101/sato19a/sato19a.pdf
+    venueurl:
+    codeurl: 
+    display: ACML 2019 
+  ispdf: 1
+  iscode: 0
+  highlight: 0
+  news2:
+
+- title: "Empirical Study of Transformer’s Attention Mechanism via the Lens of Kernel"
+  image: ""
+  description: ""
+  authors: Yao-Hung Hubert Tsai, Shaojie Bai, Makoto Yamada, Louis-Philippe Morency and Ruslan Salakhutdinov.
+  link:
+    pdfurl: https://www.aclweb.org/anthology/D19-1443/
+    venueurl:
+    codeurl: 
+    display: EMNLP 2019
+  ispdf: 1
+  iscode: 0
+  highlight: 0
+  news2:
 
