@@ -8,6 +8,10 @@ permalink: /
 
 We are focusing on developing machine learning algorithm for science including feature selection, topological data analysis, graph neural network, optimal transport and transfer learning.
 
+We have two goals:
+- <b>Machine learning for science</b>: Develop machine learning methods that help scientists finding new scientific discoveries.
+- <b>Machine learning</b>: Develop fundamental machine learning algorithms.  
+ 
 <!---
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <ol class="carousel-indicators">
