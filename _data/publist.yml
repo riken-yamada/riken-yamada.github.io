@@ -174,3 +174,74 @@
   highlight: 0
   news2:
 
+- title: "Post Selection Inference with Incomplete Maximum Mean Discrepancy Estimator"
+  image: ""
+  description: ""
+  authors: Makoto Yamada, Denny Wu, Yao-Hung Hubert Tsai, Hirofumi Ohta, Ruslan Salakhutdinov, Ichiro Takeuchi, Kenji Fukumizu 
+  link:
+    pdfurl: https://openreview.net/pdf?id=BkG5SjR5YQ 
+    venueurl:
+    codeurl: 
+    display: ICLR 2019
+  ispdf: 1
+  iscode: 0
+  highlight: 0
+  news2:
+
+- title: "Post Selection Inference with Kernels"
+  image: ""
+  description: ""
+  authors: Makoto Yamada, Yuta Umezu, Kenji Fukumizu, Ichiro Takeuchi 
+  link:
+    pdfurl: http://proceedings.mlr.press/v84/yamada18a/yamada18a.pdf
+    venueurl:
+    codeurl: 
+    display: AISTATS 2018
+  ispdf: 1
+  iscode: 0
+  highlight: 0
+  news2:
+
+- title: "Learning Unsupervised Word Translations Without Adversaries"
+  image: ""
+  description: ""
+  authors: Tanmoy Mukherjee, Makoto Yamada, Timothy M. Hospedales
+  link:
+    pdfurl: https://www.aclweb.org/anthology/D18-1063/
+    venueurl:
+    codeurl: 
+    display: EMNLP 2018 
+  ispdf: 1
+  iscode: 0
+  highlight: 0
+  news2:
+
+- title: "Persistence Fisher Kernel: A Riemannian Manifold Kernel for Persistence Diagrams"
+  image: ""
+  description: ""
+  authors: Tam Le, Makoto Yamada
+  link:
+    pdfurl: https://papers.nips.cc/paper/8205-persistence-fisher-kernel-a-riemannian-manifold-kernel-for-persistence-diagrams.pdf
+    venueurl:
+    codeurl: 
+    display: 
+  ispdf: 1
+  iscode: 0
+  highlight: 0
+  news2:
+
+- title: "Localized Lasso for High-Dimensional Regression"
+  image: ""
+  description: ""
+  authors: Makoto Yamada, Koh Takeuchi, Tomoharu Iwata, John Shawe-Taylor, Samuel Kaski
+  link:
+    pdfurl: http://proceedings.mlr.press/v54/yamada17a/yamada17a.pdf
+    venueurl:
+    codeurl: 
+    display: AISTATS 2017
+  ispdf: 1
+  iscode: 0
+  highlight: 0
+  news2:
+
+
