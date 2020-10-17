@@ -19,8 +19,13 @@ include:
   - .htaccess
   - _pages
 
+scholar:
+  style: modern-language-association
+  bibliography_template: bibtemplate
+
 sass:
   sass_dir: _sass
+
 
 # Conversion
 markdown: kramdown

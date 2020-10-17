@@ -19,8 +19,30 @@ include:
   - .htaccess
   - _pages
 
+scholar:
+  style: apa
+  locale: en
+
+  sort_by: none
+  order: ascending
+
+  source: ./_bibliography
+  bibliography: references.bib
+  bibliography_template: "{{reference}}"
+
+  replace_strings: true
+  join_strings:    true
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"
+  bibliography_template: bibtemplate
 sass:
   sass_dir: _sass
+
+bibliography_template: bibtemplate
 
 # Conversion
 markdown: kramdown

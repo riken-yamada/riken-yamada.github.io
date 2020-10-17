@@ -6,72 +6,11 @@ sitemap: false
 permalink: /publications/
 ---
 
-
 # Publications
 
-## Group highlights
-
-(For a full list see [below](#full-list))
-
-{% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
- </div>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endif %}
+{% for y in site.data.publist %}
+  <h3  id="{{y}}" class="pubyear">{{y}}</h3>
+  {% bibliography -f references -q @*[year={{y}}]* %}
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
 
-<p> &nbsp; </p>
-
-
-## Full List
-
-{% for publi in site.data.publist %}
-
-  <em>{{ publi.authors }}</em>  <br>
-  <span style="color: #0000FF;">{{ publi.title }}</span><br>{{ publi.link.display }}
-
-
-
- {% if publi.ispdf  == 1 %}
-  {% if publi.iscode  == 1 %}
-  <button type="button"  class="btn btn-outline-primary my-1 mr-1 btn-sm"><a href="{{ publi.link.pdfurl }}" target="_blank" rel="noopener">PDF</a></button>
-  <button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm"><a href="{{ publi.link.codeurl }}" target="_blank" rel="noopener">Code</a></button>
-  {% endif %}
-  {% endif %}
-
-  {% if publi.ispdf  == 1 %}
-  {% if publi.iscode  == 0 %}
-  <button type="button" class="btn btn-outline-primary btn-sm"><a href="{{ publi.link.pdfurl }}" target="_blank" rel="noopener">PDF</a></button>
-  {% endif %}
-  {% endif %}
-
-{% endfor %}
