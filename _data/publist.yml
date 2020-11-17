@@ -1,3 +1,80 @@
+
+- title: "Improved metabolomic data-based prediction of depressive symptoms using nonlinear machine learning with feature selection"
+  image: ""
+  description: ""
+  authors: Yuta Takahashi, Masao Ueki, Makoto Yamada, Gen Tamiya, Ikuko N. Motoike, Daisuke Saigusa, Miyuki Sakurai, Fuji Nagami, Soichi Ogishima, Seizo Koshiba, Kengo Kinoshita, Masayuki Yamamoto
+  link:
+    pdfurl:
+    venueurl:
+    codeurl: 
+    display: Translational Psychiatry, 2020.
+  ispdf: 0
+  iscode: 0
+  isml: 0
+  highlight: 0
+  news2:
+
+- title: "Deep-learning-based quality filtering of mechanically exfoliated 2D crystals"
+  image: ""
+  description: ""
+  authors: Yu Saito, Kento Shin, Kei Terayama, Shaan Desai, Masaru Onga, Yuji Nakagawa, Yuki M. Itahashi, Yoshihiro Iwasa, Makoto Yamada, Koji Tsuda
+  link:
+    pdfurl:
+    venueurl:
+    codeurl: 
+    display: npj Computational Materials, 2019.
+  ispdf: 0
+  iscode: 0
+  isml: 0
+  highlight: 0
+  news2:
+
+- title: "A practical guide to intelligent image-activated cell sorting"
+  image: ""
+  description: ""
+  authors: Akihiro Isozaki, Hideharu Mikami, Kotaro Hiramatsu, Shinya Sakuma, Yusuke Kasai, Takanori Iino, Takashi Yamano, Atsushi Yasumoto, Yusuke Oguchi, Nobutake Suzuki, Yoshitaka Shirasaki, Taichiro Endo, Takuro Ito, Kei Hiraki, Makoto Yamada, Satoshi Matsusaka, Takeshi Hayakawa, Hideya Fukuzawa, Yutaka Yatomi, Fumihito Arai, Dino Di Carlo, Atsuhiro Nakagawa, Yu Hoshino, Yoichiroh Hosokawa, Sotaro Uemura, Takeaki Sugimura, Yasuyuki Ozeki, Nao Nitta, Keisuke Goda.
+  link:
+    pdfurl: 
+    venueurl: 
+    codeurl: 
+    display: Nature Protocols, 2019.
+  ispdf: 0
+  iscode: 0
+  isml: 0
+  highlight: 0
+  news2:
+
+- title: "Intelligent Image-Activated Cell Sorting"
+  image: ""
+  description: ""
+  authors: Nao Nitta, Takeaki Sugimura, Akihiro Isozaki, Hideharu Mikami, Kei Hiraki, Shinya Sakuma, Takanori Iino, Fumihito Arai, Taichiro Endo, Yasuhiro Fujiwaki, Hideya Fukuzawa, Misa Hase, Takeshi Hayakawa, Kotaro Hiramatsu, Yu Hoshino, Mary Inaba, Takuro Ito, Hiroshi Karakawa, Yusuke Kasai, Kenichi Koizumi, SangWook Lee, Cheng Lei, Ming Li, Takanori Maeno, Satoshi Matsusaka, Daichi Murakami, Atsuhiro Nakagawa, Yusuke Oguchi, Minoru Oikawa, Tadataka Ota, Kiyotaka Shiba, Hirofumi Shintaku, Yoshitaka Shirasaki, Kanako Suga, Yuta Suzuki, Nobutake Suzuki, Yo Tanaka, Hiroshi Tezuka, Chihana Toyokawa, Yaxiaer Yalikun, Makoto Yamada, Mai Yamagishi, Takashi Yamano, Atsushi Yasumoto, Yutaka Yatomi, Masayuki Yazawa, Dino Di Carlo, Yoichiroh Hosokawa, Yasuyuki Ozeki, Keisuke Goda.
+  link:
+    pdfurl:
+    venueurl:
+    codeurl: 
+    display: Cell, 2018.
+  ispdf: 0
+  iscode: 0
+  isml: 0
+  highlight: 0
+  news2:
+
+- title: "High-throughput imaging flow cytometry by optofluidic time-stretch microscopy"
+  image: ""
+  description: ""
+  authors: Cheng Lei, Hirofumi Kobayashi, Yi Wu, Ming Li, Akihiro Isozaki, Atsushi Yasumoto, Hideharu Mikami, Takuro Ito, Nao Nitta, Takeaki Sugimura, Makoto Yamada, Yutaka Yatomi, Dino Di Carlo, Yasuyuki Ozeki, Keisuke Goda
+  link:
+    pdfurl:
+    venueurl:
+    codeurl:
+    display: Nature Protocols, 2018.
+  ispdf: 0
+  iscode: 0
+  isml: 0
+  highlight: 0
+  news2:
+
+
 - title: "Neural Methods for Point-wise Dependency Estimation"   
   image: ""
   description: ""
@@ -18,11 +95,12 @@
   description: ""
   authors: Ryoma Sato, Makoto Yamada, Hisashi Kashima 
   link:
-    pdfurl: https://arxiv.org/abs/2006.02703
+    pdfurl: https://papers.nips.cc/paper/2020/file/dba31bb5c75992690f20c2d3b370ec7c-Paper.pdf
+    codeurl: https://github.com/joisino/treegkr
     venueurl: https://neurips.cc/
     display: NeurIPS 2020
   ispdf: 1
-  iscode: 0
+  iscode: 1
   isml: 1
   highlight: 0
   news2:
@@ -106,6 +184,21 @@
     venueurl:
     codeurl: 
     display: AAAI 2020
+  ispdf: 1
+  iscode: 0
+  isml: 1
+  highlight: 0
+  news2:
+
+- title: "Block HSIC Lasso: model-free biomarker detection for ultra-high dimensional data"
+  image: ""
+  description: ""
+  authors: Héctor Climente-González, Chloé-Agathe Azencott, Samuel Kaski, Makoto Yamada
+  link:
+    pdfurl: https://academic.oup.com/bioinformatics/article/35/14/i427/5529193
+    venueurl:
+    codeurl: https://github.com/riken-aip/pyHSICLasso
+    display: Bioinformatics (ISMB) 2019
   ispdf: 1
   iscode: 0
   isml: 1
@@ -240,7 +333,7 @@
     pdfurl: https://papers.nips.cc/paper/8205-persistence-fisher-kernel-a-riemannian-manifold-kernel-for-persistence-diagrams.pdf
     venueurl:
     codeurl: 
-    display: 
+    display: NeurIPS 2018 
   ispdf: 1
   iscode: 0
   isml: 1
