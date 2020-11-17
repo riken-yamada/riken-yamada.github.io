@@ -9,6 +9,7 @@
     display: NeurIPS 2020
   ispdf: 1
   iscode: 1
+  isml: 1
   highlight: 0
   news2:
 
@@ -22,6 +23,7 @@
     display: NeurIPS 2020
   ispdf: 1
   iscode: 0
+  isml: 1
   highlight: 0
   news2:
 
@@ -34,6 +36,7 @@
     venueurl:  
     display: DSAA, 2020 
   highlight: 0
+  isml: 1
   news2:
 
 - title: "Semantic Correspondence as an Optimal Transport Problem"   
@@ -47,6 +50,7 @@
     display: CVPR 2020
   ispdf: 1
   iscode: 1
+  isml: 1
   highlight: 0
   news2:
 
@@ -60,6 +64,7 @@
     display: ECAI 2020
   ispdf: 1
   iscode: 0
+  isml: 1
   highlight: 0
   news2:
 
@@ -73,6 +78,7 @@
     display: AISTATS 2020
   ispdf: 1
   iscode: 0
+  isml: 1
   highlight: 0
   news2:
 
@@ -87,6 +93,7 @@
     display: AISTATS 2020
   ispdf: 1
   iscode: 1
+  isml: 1
   highlight: 0
   news2:
 
@@ -101,6 +108,7 @@
     display: AAAI 2020
   ispdf: 1
   iscode: 0
+  isml: 1
   highlight: 0
   news2:
 
@@ -115,6 +123,7 @@
     display: NeurIPS 2019 
   ispdf: 1
   iscode: 0
+  isml: 1
   highlight: 0
   news2:
 
@@ -129,6 +138,7 @@
     display: NeurIPS 2019
   ispdf: 1
   iscode: 1
+  isml: 1
   highlight: 0
   news2:
 
@@ -143,6 +153,7 @@
     display: NeurIPS 2019
   ispdf: 1
   iscode: 1
+  isml: 1
   highlight: 0
   news2:
 
@@ -157,6 +168,7 @@
     display: ACML 2019 
   ispdf: 1
   iscode: 0
+  isml: 1
   highlight: 0
   news2:
 
@@ -171,6 +183,7 @@
     display: EMNLP 2019
   ispdf: 1
   iscode: 0
+  isml: 1
   highlight: 0
   news2:
 
@@ -185,6 +198,7 @@
     display: ICLR 2019
   ispdf: 1
   iscode: 0
+  isml: 1
   highlight: 0
   news2:
 
@@ -199,6 +213,7 @@
     display: AISTATS 2018
   ispdf: 1
   iscode: 0
+  isml: 1
   highlight: 0
   news2:
 
@@ -213,6 +228,7 @@
     display: EMNLP 2018 
   ispdf: 1
   iscode: 0
+  isml: 1
   highlight: 0
   news2:
 
@@ -227,6 +243,7 @@
     display: 
   ispdf: 1
   iscode: 0
+  isml: 1
   highlight: 0
   news2:
 
@@ -241,6 +258,7 @@
     display: AISTATS 2017
   ispdf: 1
   iscode: 0
+  isml: 1
   highlight: 0
   news2:
 
