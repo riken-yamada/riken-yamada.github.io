@@ -8,9 +8,11 @@ permalink: /vacancies
 
 # Open positions
 
-We are currently looking for a postdoctoral fellow or research scientist.  
+**Postdocs**:
+If you are looking for postdoc position at  our research group, please consider applying to the [SPDR program](https://www.riken.jp/en/careers/programs/spdr/).
 
-[Seeking a Research Scientist or Postdoctoral Researcher (W20113)](https://www.riken.jp/en/careers/researchers/20201016_4/index.html)
+**Interns**: If you are interested in an intern position (Doctor / Master students) at our team, please contact to (**makoto.yamada at riken.jp**).
+
 
 **Information About the RIKEN High-dimensional Statistical Modeling Team**
 - We are part of RIKEN, Japan's largest multidisciplinary research institution, and enclaved in the historical Kyoto University.

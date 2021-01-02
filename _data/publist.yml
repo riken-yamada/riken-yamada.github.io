@@ -1,3 +1,18 @@
+- title: "Random Features Strengthen Graph Neural Networks"
+  image: ""
+  description: ""
+  authors: Ryoma Sato, Makoto Yamada, Hisashi Kashima
+  link:
+    pdfurl: https://arxiv.org/pdf/2002.03155.pdf
+    codeurl: 
+    venueurl: 
+    display: SDM 2021
+  ispdf: 1
+  iscode: 0
+  isml: 1
+  highlight: 0
+  news2:
+
 
 - title: "Improved metabolomic data-based prediction of depressive symptoms using nonlinear machine learning with feature selection"
   image: ""
