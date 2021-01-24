@@ -7,6 +7,7 @@
     codeurl:
     venueurl:
     display: AISTATS 2021
+  year: 2021
   ispdf: 1
   iscode: 0
   isml: 1
@@ -22,6 +23,7 @@
     codeurl:
     venueurl:
     display: AISTATS 2021
+  year: 2021
   ispdf: 0
   iscode: 0
   isml: 1
@@ -37,6 +39,7 @@
     codeurl: 
     venueurl: 
     display: SDM 2021
+  year: 2021
   ispdf: 1
   iscode: 0
   isml: 1
@@ -53,6 +56,7 @@
     venueurl:
     codeurl: 
     display: Translational Psychiatry, 2020.
+  year: 2020
   ispdf: 0
   iscode: 0
   isml: 0
@@ -68,6 +72,7 @@
     venueurl:
     codeurl: 
     display: npj Computational Materials, 2019.
+  year: 2019
   ispdf: 0
   iscode: 0
   isml: 0
@@ -83,6 +88,7 @@
     venueurl: 
     codeurl: 
     display: Nature Protocols, 2019.
+  year: 2019
   ispdf: 0
   iscode: 0
   isml: 0
@@ -98,6 +104,7 @@
     venueurl:
     codeurl: 
     display: Cell, 2018.
+  year: 2018
   ispdf: 0
   iscode: 0
   isml: 0
@@ -113,6 +120,7 @@
     venueurl:
     codeurl:
     display: Nature Protocols, 2018.
+  year: 2018
   ispdf: 0
   iscode: 0
   isml: 0
@@ -129,6 +137,7 @@
     venueurl: https://neurips.cc/
     codeurl: https://github.com/yaohungt/Self_Supervised_Learning_Multiview 
     display: NeurIPS 2020
+  year: 2020
   ispdf: 1
   iscode: 1
   isml: 1
@@ -144,6 +153,7 @@
     codeurl: https://github.com/joisino/treegkr
     venueurl: https://neurips.cc/
     display: NeurIPS 2020
+  year: 2020
   ispdf: 1
   iscode: 1
   isml: 1
@@ -158,6 +168,7 @@
     pdfurl:
     venueurl:  
     display: DSAA, 2020 
+  year: 2020
   highlight: 0
   isml: 1
   news2:
@@ -171,6 +182,7 @@
     venururl: http://cvpr2020.thecvf.com/
     codeurl: https://github.com/csyanbin/SCOT
     display: CVPR 2020
+  year: 2020
   ispdf: 1
   iscode: 1
   isml: 1
@@ -185,6 +197,7 @@
     pdfurl: https://ecai2020.eu/papers/330_paper.pdf
     venueurl:
     display: ECAI 2020
+  year: 2020
   ispdf: 1
   iscode: 0
   isml: 1
@@ -199,6 +212,7 @@
     pdfurl: http://proceedings.mlr.press/v108/poignard20a.html
     venueurl:
     display: AISTATS 2020
+  year: 2020
   ispdf: 1
   iscode: 0
   isml: 1
@@ -214,6 +228,7 @@
     venueurl:
     codeurl: https://github.com/jenninglim/multiscale-features
     display: AISTATS 2020
+  year: 2020
   ispdf: 1
   iscode: 1
   isml: 1
@@ -229,6 +244,7 @@
     venueurl:
     codeurl: 
     display: AAAI 2020
+  year: 2020
   ispdf: 1
   iscode: 0
   isml: 1
@@ -244,6 +260,7 @@
     venueurl:
     codeurl: https://github.com/riken-aip/pyHSICLasso
     display: Bioinformatics (ISMB) 2019
+  year: 2019
   ispdf: 1
   iscode: 0
   isml: 1
@@ -259,6 +276,7 @@
     venueurl:
     codeurl: 
     display: NeurIPS 2019 
+  year: 2019
   ispdf: 1
   iscode: 0
   isml: 1
@@ -274,6 +292,7 @@
     venueurl:
     codeurl: https://github.com/lttam/TreeWasserstein
     display: NeurIPS 2019
+  year: 2019
   ispdf: 1
   iscode: 1
   isml: 1
@@ -289,6 +308,7 @@
     venueurl:
     codeurl: https://github.com/jenninglim/model-comparison-test
     display: NeurIPS 2019
+  year: 2019
   ispdf: 1
   iscode: 1
   isml: 1
@@ -304,6 +324,7 @@
     venueurl:
     codeurl: 
     display: ACML 2019 
+  year: 2019
   ispdf: 1
   iscode: 0
   isml: 1
@@ -319,6 +340,7 @@
     venueurl:
     codeurl: 
     display: EMNLP 2019
+  year: 2019
   ispdf: 1
   iscode: 0
   isml: 1
@@ -334,6 +356,7 @@
     venueurl:
     codeurl: 
     display: ICLR 2019
+  year: 2019
   ispdf: 1
   iscode: 0
   isml: 1
@@ -349,6 +372,7 @@
     venueurl:
     codeurl: 
     display: AISTATS 2018
+  year: 2018
   ispdf: 1
   iscode: 0
   isml: 1
@@ -364,6 +388,7 @@
     venueurl:
     codeurl: 
     display: EMNLP 2018 
+  year: 2018
   ispdf: 1
   iscode: 0
   isml: 1
@@ -379,6 +404,7 @@
     venueurl:
     codeurl: 
     display: NeurIPS 2018 
+  year: 2018
   ispdf: 1
   iscode: 0
   isml: 1
@@ -394,6 +420,7 @@
     venueurl:
     codeurl: 
     display: AISTATS 2017
+  year: 2017
   ispdf: 1
   iscode: 0
   isml: 1
