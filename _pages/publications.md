@@ -21,14 +21,14 @@ permalink: /publications/
 
   {% if publi.iscode  == 1 %}
   {% if publi.ispdf  == 1 %}
-  <button type="button"  class="btn btn-outline-primary my-1 mr-1 btn-sm"><a href="{{ publi.link.pdfurl }}" target="_blank" rel="noopener">PDF</a></button>
-  <button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm"><a href="{{ publi.link.codeurl }}" target="_blank" rel="noopener">Code</a></button>
+  <button type="button"  class="btn-flat-border"><a href="{{ publi.link.pdfurl }}" target="_blank" rel="noopener">PDF</a></button>
+  <button type="button" class="btn-flat-border"><a href="{{ publi.link.codeurl }}" target="_blank" rel="noopener">CODE</a></button>
   {% endif %}
   {% endif %}
 
   {% if publi.ispdf  == 1 %}
   {% if publi.iscode  == 0 %}
-  <button type="button" class="btn btn-outline-primary btn-sm"><a href="{{ publi.link.pdfurl }}" target="_blank" rel="noopener">PDF</a></button>
+  <button type="button" class="btn-flat-border"><a href="{{ publi.link.pdfurl }}" target="_blank" rel="noopener">PDF</a></button>
   {% endif %}
   {% endif %}
   {% endif %}
