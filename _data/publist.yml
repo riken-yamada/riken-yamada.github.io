@@ -1,3 +1,20 @@
+- title: "Safe Grid Search with Optimal Complexity"
+  image: ""
+  description: ""
+  authors: Eugene Ndiaye, Tam Le, Olivier Fercoq, Joseph Salmon, Ichiro Takeuchi
+  link:
+    pdfurl: http://proceedings.mlr.press/v97/ndiaye19a/ndiaye19a.pdf
+    codeurl:
+    venueurl:
+    display: ICML 2019
+  year: 2019
+  ispdf: 1
+  iscode: 0
+  isml: 1
+  highlight: 0
+  news2:
+
+
 - title: "Computationally Efficient Wasserstein Loss for Structured Labels"
   image: ""
   description: ""
