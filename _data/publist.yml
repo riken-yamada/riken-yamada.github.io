@@ -1,3 +1,19 @@
+- title: "Computationally Efficient Wasserstein Loss for Structured Labels"
+  image: ""
+  description: ""
+  authors: Ayato Toyokuni, Sho Yokoi, Hisashi Kashima,  Makoto Yamada 
+  link:
+    pdfurl: 
+    codeurl:
+    venueurl:
+    display: ECAL SRW 2021
+  year: 2021
+  ispdf: 0
+  iscode: 0
+  isml: 1
+  highlight: 0
+  news2:
+
 - title: "Flow-based Alignment Approaches for Probability Measures in Different Spaces"
   image: ""
   description: ""
