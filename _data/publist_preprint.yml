@@ -1,0 +1,194 @@
+- title: "Supervised Tree-Wasserstein Distance"
+  image: ""
+  description: ""
+  authors: Yuki Takezawa, Ryoma Sato, Makoto Yamada
+  link:
+    pdfurl: https://arxiv.org/pdf/2101.11520.pdf 
+    codeurl:
+    venueurl:
+    display: arXiv 2021
+  year: 2021
+  ispdf: 1
+  iscode: 0
+  isml: 1
+  highlight: 0
+  news2:
+
+- title: "Post-selection inference with HSIC-Lasso"
+  image: ""
+  description: ""
+  authors: Tobias Freidling, Benjamin Poignard, Héctor Climente-González, Makoto Yamada
+  link:
+    pdfurl: https://arxiv.org/pdf/2010.15659
+    codeurl:
+    venueurl:
+    display: arXiv 2020
+  year: 2020
+  ispdf: 1
+  iscode: 0
+  isml: 1
+  highlight: 0
+  news2:
+
+- title: "Poincare: Recommending Publication Venues via Treatment Effect Estimation"
+  image: ""
+  description: ""
+  authors: Ryoma Sato, Makoto Yamada, Hisashi Kashima
+  link:
+    pdfurl: https://arxiv.org/pdf/2010.09157
+    codeurl:
+    venueurl:
+    display: arXiv 2020
+  year: 2020
+  ispdf: 1
+  iscode: 0
+  isml: 1
+  highlight: 0
+  news2:
+
+- title: "Optimal Transport Kernels for Sequential and Parallel Neural Architecture Search"
+  image: ""
+  description: ""
+  authors: Vu Nguyen, Tam Le, Makoto Yamada, Michael A Osborne 
+  link:
+    pdfurl: https://arxiv.org/pdf/2006.07593
+    codeurl:
+    venueurl:
+    display: arXiv 2020
+  year: 2020
+  ispdf: 1
+  iscode: 0
+  isml: 1
+  highlight: 0
+  news2:
+
+- title: "Feature Robust Optimal Transport for High-dimensional Data"
+  image: ""
+  description: ""
+  authors: Mathis Petrovich, Chao Liang, Ryoma Sato, Yanbin Liu, Yao-Hung Hubert Tsai, Linchao Zhu, Yi Yang, Ruslan Salakhutdinov, Makoto Yamada
+  link:
+    pdfurl: https://arxiv.org/pdf/2005.12123
+    codeurl:
+    venueurl:
+    display: arXiv 2020
+  year: 2020
+  ispdf: 1
+  iscode: 0
+  isml: 1
+  highlight: 0
+  news2:
+
+- title: "Volumization as a Natural Generalization of Weight Decay"
+  image: ""
+  description: ""
+  authors: Liu Ziyin, Zihao Wang, Makoto Yamada, Masahito Ueda 
+  link:
+    pdfurl: https://arxiv.org/pdf/2003.11243
+    codeurl:
+    venueurl:
+    display: arXiv 2020
+  year: 2020
+  ispdf: 1
+  iscode: 0
+  isml: 1
+  highlight: 0
+  news2:
+
+- title: "Fast local linear regression with anchor regularization"
+  image: ""
+  description: ""
+  authors: Mathis Petrovich, Makoto Yamada
+  link:
+    pdfurl: https://arxiv.org/pdf/2003.05747
+    codeurl:
+    venueurl:
+    display: arXiv 2020
+  year: 2020
+  ispdf: 1
+  iscode: 0
+  isml: 1
+  highlight: 0
+  news2:
+
+- title: "Fast and Robust Comparison of Probability Measures in Heterogeneous Spaces"
+  image: ""
+  description: ""
+  authors: Ryoma Sato, Marco Cuturi, Makoto Yamada, Hisashi Kashima
+  link:
+    pdfurl: https://arxiv.org/pdf/2002.01615
+    codeurl:
+    venueurl:
+    display: arXiv 2020
+  year: 2020
+  ispdf: 1
+  iscode: 0
+  isml: 1
+  highlight: 0
+  news2:
+
+- title: "FsNet: Feature Selection Network on High-dimensional Biological Data"
+  image: ""
+  description: ""
+  authors: Dinesh Singh, Héctor Climente-González, Mathis Petrovich, Eiryo Kawakami, Makoto Yamada
+  link:
+    pdfurl: https://arxiv.org/pdf/2001.08322
+    codeurl:
+    venueurl:
+    display: arXiv 2020
+  year: 2020
+  ispdf: 1
+  iscode: 0
+  isml: 1
+  highlight: 0
+  news2:
+
+- title: "GraphLIME: Local Interpretable Model Explanations for Graph Neural Networks"
+  image: ""
+  description: ""
+  authors: Qiang Huang, Makoto Yamada, Yuan Tian, Dinesh Singh, Dawei Yin, Yi Chang
+  link:
+    pdfurl: https://arxiv.org/pdf/2001.06216
+    codeurl:
+    venueurl:
+    display: arXiv 2020
+  year: 2020
+  ispdf: 1
+  iscode: 0
+  isml: 1
+  highlight: 0
+  news2:
+
+- title: "Tree-Wasserstein Barycenter for Large-Scale Multilevel Clustering and Scalable Bayes"
+  image: ""
+  description: ""
+  authors: Tam Le, Viet Huynh, Nhat Ho, Dinh Phung, Makoto Yamada
+  link:
+    pdfurl: https://arxiv.org/pdf/1910.04483
+    codeurl:
+    venueurl:
+    display: arXiv 2019
+  year: 2019
+  ispdf: 1
+  iscode: 0
+  isml: 1
+  highlight: 0
+  news2:
+
+- title: "LSMI-Sinkhorn: Semi-supervised Squared-Loss Mutual Information Estimation with Optimal Transport"
+  image: ""
+  description: ""
+  authors: Yanbin Liu, Makoto Yamada, Yao-Hung Hubert Tsai, Tam Le, Ruslan Salakhutdinov, Yi Yang
+  link:
+    pdfurl: https://arxiv.org/pdf/1909.02373
+    codeurl:
+    venueurl:
+    display: arXiv 2019
+  year: 2019
+  ispdf: 1
+  iscode: 0
+  isml: 1
+  highlight: 0
+  news2:
+
+
+
