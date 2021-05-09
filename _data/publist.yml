@@ -1,3 +1,51 @@
+- title: "Supervised Tree-Wasserstein Distance"
+  image: ""
+  description: ""
+  authors: Yuki Takezawa, Ryoma Sato, Makoto Yamada
+  link:
+    pdfurl: https://arxiv.org/pdf/2101.11520.pdf
+    codeurl:
+    venueurl:
+    display: ICML 2021
+  year: 2021
+  ispdf: 1
+  iscode: 0
+  isml: 1
+  highlight: 0
+  news2:
+
+- title: "Post-selection inference with HSIC-Lasso"
+  image: ""
+  description: ""
+  authors: Tobias Freidling, Benjamin Poignard, Héctor Climente-González, Makoto Yamada
+  link:
+    pdfurl: https://arxiv.org/pdf/2010.15659
+    codeurl:
+    venueurl:
+    display: ICML 2021
+  year: 2021
+  ispdf: 1
+  iscode: 0
+  isml: 1
+  highlight: 0
+  news2:
+
+- title: "Optimal Transport Kernels for Sequential and Parallel Neural Architecture Search"
+  image: ""
+  description: ""
+  authors: Vu Nguyen\*, Tam Le\*, Makoto Yamada, Michael A Osborne (\*:equal contribution)
+  link:
+    pdfurl: https://arxiv.org/pdf/2006.07593
+    codeurl:
+    venueurl:
+    display: ICML 2021
+  year: 2021
+  ispdf: 1
+  iscode: 0
+  isml: 1
+  highlight: 0
+  news2:
+
 - title: "Combined inhibition of XIAP and BCL2 drives maximal therapeutic efficacy in genetically diverse aggressive acute myeloid leukemia"
   image: ""
   description: ""
