@@ -13,14 +13,6 @@
   number_educ: 0
   education1:
 
-- name: Shogo Hayashi
-  photo: alumni.png
-  info: Ph.D. student
-  email: shogo.hayashi@riken.jp
-  hp: http://ml.ist.i.kyoto-u.ac.jp/hayashi/  
-  number_educ: 0
-  education1:
-
 - name: Tam Le
   photo: TamLe.png
   info: Postdoc
@@ -28,20 +20,12 @@
   hp: https://tamle-ml.github.io/ 
   number_educ: 0
 
-- name: Kosuke Morita
+- name: Peter Naylor
   photo: alumni.png
-  info: Bachelor Student
-  email: 
+  info: Postdoc
+  email: peter.naylor@riken.jp
+  hp: https://peterjacknaylor.github.io/
   number_educ: 0
-  education1:
-
-
-- name: Kanata Satake
-  photo: alumni.png
-  info: Master student
-  email: 
-  number_educ: 0
-  education1:
 
 - name: Ryoma Sato
   photo: alumni.png
@@ -58,13 +42,6 @@
   number_educ: 0
   education1:
 
-- name: Tatsuya Shiraishi
-  photo: alumni.png
-  info: Master student
-  email: tatsuya.shiraishi@riken.jp
-  number_educ: 0
-  education1:
-
 - name: Dinesh Singh
   photo: dinesh.jpg
   info: Postdoc
@@ -76,8 +53,9 @@
 - name: Yuki Takezawa
   photo: alumni.png
   info: Bachelor Student
-  email: 
+  email: yuki.takezawa@riken.jp 
   number_educ: 0
+  hp: https://scholar.google.com/citations?user=eaKQb8IAAAAJ&hl=ja
   education1:
 
 - name: Yuki Tomimura
@@ -107,13 +85,4 @@
   email: makoto.yamada@riken.jp
   hp: https://scholar.google.com/citations?user=1cKNu1gAAAAJ 
   number_educ: 0
-
-- name: Liu Yang
-  photo: alumni.png
-  info: Ph.D. student
-  email: liu.yang@riken.jp
-  number_educ: 0
-  education1:
-
-
 

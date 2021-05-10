@@ -1,3 +1,45 @@
+- name: Liu Yang
+  photo: alumni.png
+  duration: 2020-2021
+  info: Ph.D. student
+  email: liu.yang@riken.jp
+  number_educ: 0
+  education1:
+
+- name: Tatsuya Shiraishi
+  photo: alumni.png
+  duration: 2018-2021
+  info: Master student
+  email: tatsuya.shiraishi@riken.jp
+  number_educ: 0
+  education1:
+
+- name: Kanata Satake
+  photo: alumni.png
+  duration: 2018-2021
+  info: Master student
+  email:
+  number_educ: 0
+  education1:
+
+
+- name: Kosuke Morita
+  photo: alumni.png
+  duration: 2020-2021
+  info: Bachelor Student
+  email:
+  number_educ: 0
+  education1:
+
+- name: Shogo Hayashi
+  photo: alumni.png
+  duration: 2020-2021
+  info: Ph.D. student, (Currently NEC)
+  email: shogo.hayashi@riken.jp
+  hp: http://ml.ist.i.kyoto-u.ac.jp/hayashi/
+  number_educ: 0
+  education1:
+
 - name: Tobias Freidling
   photo: alumni.png
   duration: 2020
