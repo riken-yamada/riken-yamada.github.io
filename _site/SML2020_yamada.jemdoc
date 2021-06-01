@@ -1,6 +1,6 @@
-# jemdoc: menu{MENU}{smis.html},showsource = HSICLasso,addcss{jemdoc.css}
+# jemdoc: showsource = SML,addcss{css/jemdoc.css}
 \n
-= Statistical Learning Theory (2019), Graduate School of Informatics, Kyoto University
+= Statistical Learning Theory (2020), Graduate School of Informatics, Kyoto University
 
 Lectures: Hisashi Kashima and [http://www.makotoyamada-ml.com/ Makoto Yamada]
 

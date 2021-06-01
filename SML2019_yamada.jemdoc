@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{smis.html},showsource = HSICLasso,addcss{jemdoc.css}
+# jemdoc: showsource = HSICLasso,addcss{css/jemdoc.css}
 \n
 = Statistical Learning Theory (2019), Graduate School of Informatics, Kyoto University
 

@@ -1,8 +1,8 @@
 # jemdoc: showsource = SML,addcss{css/jemdoc.css}
 \n
-= Statistical Learning Theory (2018), Graduate School of Informatics, Kyoto University
+= Statistical Learning Theory (2021), Graduate School of Informatics, Kyoto University
 
-Lectures: [http://www.geocities.jp/kashi_pong/ Hisashi Kashima] and [http://www.makotoyamada-ml.com/ Makoto Yamada]
+Lectures: Hisashi Kashima and [http://www.makotoyamada-ml.com/ Makoto Yamada]
 
 This course will cover in a broad sense the fundamental theoretical aspects and applicative possibilities of statistical machine learning, which is now a fundamental block of statistical data analysis and data mining. This course will focus first on the supervised and unsupervised learning problems, including a survey of probably approximately correct learning, Bayesian learning as well as other learning theory frameworks. Following this introduction, several probabilistic models and prediction algorithms, such as the logistic regression, perceptron, and support vector machine will be introduced. Advanced topic such as online learning, structured prediction, and sparse modeling will be also introduced. 
 
@@ -17,10 +17,11 @@ This course will cover in a broad sense the fundamental theoretical aspects and 
 - Advanced topics (Semi-supervised learning, active learning, and structured output prediction)
 
 == Lecture Slides
-. [SML2018_sparsity.pdf Feature Selection and Sparsity]
-. [SML2018_DR.pdf Dimensionality reduction]
-. [SML2018_industries.pdf Matrix Completion and Active Learning]
-. [SML2018_semisupervised.pdf Semi-supervised Learning]
-. [SML2018_transferlearning.pdf Transfer Learning]
-. [SML2018_densityratio.pdf Divergence Estimation and Density Ratio Estimation]
-. [SML2018_model-ensemble.pdf Model Ensemble]
+. [Course/2021/Feature_Selection_and_Sparsity.pdf Feature Selection and Sparsity]
+. [Course/2021/Dimensionality_reduction.pdf Dimensionality Reduction]
+#. [Course/2021/SML2019_industries.pdf Matrix Completion and Active Learning]
+#. [Course/2021/Model_Ensemble.pdf Model Ensemble]
+. [Course/2021/Semi_supervised_Learning.pdf Semi-supervised Learning/Transfer Learning]
+. [Course/2021/Model_Ensemble.pdf Model Ensemble]
+. [Course/2021/Graph_Neural_Network.pdf Graph Neural Network]
+#. [Course/2020/SML2019_densityratio.pdf Divergence Estimation and Density Ratio Estimation]
