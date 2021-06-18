@@ -159,21 +159,3 @@
   highlight: 0
   news2:
 
-- title: "LSMI-Sinkhorn: Semi-supervised Squared-Loss Mutual Information Estimation with Optimal Transport"
-  image: ""
-  description: ""
-  authors: Yanbin Liu, Makoto Yamada, Yao-Hung Hubert Tsai, Tam Le, Ruslan Salakhutdinov, Yi Yang
-  link:
-    pdfurl: https://arxiv.org/pdf/1909.02373
-    codeurl:
-    venueurl:
-    display: arXiv 2019
-  year: 2019
-  ispdf: 1
-  iscode: 0
-  isml: 1
-  highlight: 0
-  news2:
-
-
-
