@@ -21,12 +21,12 @@
   authors: Yuki Takezawa, Ryoma Sato, Makoto Yamada
   link:
     pdfurl: https://arxiv.org/pdf/2101.11520.pdf
-    codeurl:
+    codeurl: https://github.com/yukiTakezawa/STW
     venueurl:
     display: ICML 2021
   year: 2021
   ispdf: 1
-  iscode: 0
+  iscode: 1
   isml: 1
   highlight: 0
   news2:
@@ -37,12 +37,12 @@
   authors: Tobias Freidling, Benjamin Poignard, Héctor Climente-González, Makoto Yamada
   link:
     pdfurl: https://arxiv.org/pdf/2010.15659
-    codeurl:
+    codeurl: https://github.com/tobias-freidling/hsic-lasso-psi
     venueurl:
     display: ICML 2021
   year: 2021
   ispdf: 1
-  iscode: 0
+  iscode: 1
   isml: 1
   highlight: 0
   news2:
