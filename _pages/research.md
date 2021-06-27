@@ -16,11 +16,15 @@ We have two goals:
 ### Optimal Transport
 - Yuki Takezawa, Ryoma Sato, Makoto Yamada, Supervised Tree-Wasserstein Distance, ICML 2021
 - Vu Nguyen*, Tam Le*, Makoto Yamada, Michael A Osborne (*:equal contribution), Optimal Transport Kernels for Sequential and Parallel Neural Architecture Search, ICML 2021
+- Yanbin Liu, Makoto Yamada, Yao-Hung Hubert Tsai, Tam Le, Ruslan Salakhutdinov, Yi Yang, LSMI-Sinkhorn: Semi-supervised Squared-Loss Mutual Information Estimation with Optimal Transport, ECML-PKDD 2021
 - Tam Le*, Naht Ho*, Makoto Yamada (*:equal contribution), Flow-based Alignment Approaches for Probability Measures in Different Spaces, AISTATS 2021
 - Tam Le*, Truyen Nguyen* (*:equal contribution), Entropy Partial Transport with Tree Metrics: Theory and Practice, AISTATS 2021
 - Ryoma Sato, Makoto Yamada, Hisashi Kashima, Fast Unbalanced Optimal Transport on Tree, NeurIPS 2020
 - Yanbin Liu, Linchao Zhu, Makoto Yamada, Yi Yang, Semantic Correspondence as an Optimal Transport Problem, CVPR 2020
 - Tam Le, Makoto Yamada, Kenji Fukumizu, Marco Cuturi, Tree-Sliced Variants of Wasserstein Distances, NeurIPS 2019
+- Makoto Yamada, Leonid Sigal, Michalis Raptis, Machiko Toyoda, Yi Chang, Masashi Sugiyama, Cross-Domain Matching with Squared-Loss Mutual Information. IEEE Trans. Pattern Anal. Mach. Intell. 37(9): 1764-1776 (2015)
+- Makoto Yamada, Masashi Sugiyama, Cross-Domain Object Matching with Model Selection. AISTATS 2011
+
 
 ### Sparse Learning
 - Benjamin Poignard, Makoto Yamada, Sparse Hilbert-Schmidt Independence Criterion Regression, AISTATS 2020
