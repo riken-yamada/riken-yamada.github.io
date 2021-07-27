@@ -1,3 +1,19 @@
+- title: "Point-set Distances for Learning Representations of 3D Point Clouds"
+  image: ""
+  description: ""
+  authors: Trung Nguyen, Quang-Hieu Pham, Tam Le, Tung Pham, Nhat Ho, Binh-Son Hua
+  link:
+    pdfurl: https://arxiv.org/pdf/2102.04014.pdf
+    codeurl:
+    venueurl:
+    display: ICCV 2021
+  year: 2021
+  ispdf: 1
+  iscode: 0
+  isml: 1
+  highlight: 0
+  news2:
+
 - title: "LSMI-Sinkhorn: Semi-supervised Squared-Loss Mutual Information Estimation with Optimal Transport"
   image: ""
   description: ""

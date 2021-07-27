@@ -7,9 +7,12 @@ permalink: /seminar/
 ---
 
 
-# High-dimensional Statistical Modeling Team Seminars
+# High-dimensional Statistical Modeling Team Seminars (Online)
 
 **JST: Japan Standard time.**
+
+Anyone can attend the online seminars (and it is free!).
+So, please register to join the seminar below.
 
 ## Upcoming seminars
 

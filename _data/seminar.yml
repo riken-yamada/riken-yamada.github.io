@@ -1,3 +1,17 @@
+- title: "TBD"
+  url: ""
+  authors: "Ziyin Liu (University of Tokyo)"
+  date: September, 21st, 2021. 4pm (JST)
+  isold: 0
+  isvideo: 0
+
+- title: "Action-Conditioned 3D Human Motion Synthesis with Transformer VAE"
+  url: "https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/125052"
+  authors: "Mathis Petrovich (École des Ponts ParisTech)"
+  date: September, 14th, 2021. 4pm (JST)
+  isold: 0
+  isvideo: 0
+
 - title: "Fast Approximation for a general clustering algorithm"
   url: "https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/124987"
   authors: "Yoshikazu Terada (Osaka University)"
