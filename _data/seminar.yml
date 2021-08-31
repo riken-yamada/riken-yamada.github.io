@@ -1,5 +1,14 @@
 - title: "TBD"
   url: ""
+  authors: "Boris Muzellec"
+  date: October, 19th, 2021. 4pm (JST)
+  isold: 0
+  isvideo: 0
+
+
+
+- title: "Stochastic Gradient Descent with Multiplicative Noise"
+  url: "https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/125701"
   authors: "Ziyin Liu (University of Tokyo)"
   date: September, 21st, 2021. 4pm (JST)
   isold: 0
@@ -23,6 +32,13 @@
   url: "https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/124994" 
   authors: Weihua Hu (Stanford University)
   date: September, 2nd, 2021. 10am (JST)
+  isold: 0
+  isvideo: 0
+
+- title: "Post-selection Inference with HSIC-Lasso"
+  url: "https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/125415"
+  authors: "Tobias Freidling (University of Cambridge)"
+  date: August, 31st, 2021. 4pm (JST)
   isold: 0
   isvideo: 0
 
