@@ -1,6 +1,6 @@
 - title: "TBD"
   url: ""
-  authors: "Boris Muzellec"
+  authors: "Boris Muzellec (INRIA)"
   date: October, 19th, 2021. 4pm (JST)
   isold: 0
   isvideo: 0
@@ -25,22 +25,22 @@
   url: "https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/124987"
   authors: "Yoshikazu Terada (Osaka University)"
   date: September, 7th, 2021. 4pm (JST)
-  isold: 0
+  isold: 1
   isvideo: 0
 
 - title: "Open Graph Benchmark Large-Scale Challenge"
-  url: "https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/124994" 
+  url: "https://www.youtube.com/watch?v=pSXlkw-2Z08&t=225s" 
   authors: Weihua Hu (Stanford University)
   date: September, 2nd, 2021. 10am (JST)
-  isold: 0
-  isvideo: 0
+  isold: 1
+  isvideo: 1
 
 - title: "Post-selection Inference with HSIC-Lasso"
-  url: "https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/125415"
+  url: "https://www.youtube.com/watch?v=rfgdmchF41I"
   authors: "Tobias Freidling (University of Cambridge)"
   date: August, 31st, 2021. 4pm (JST)
-  isold: 0
-  isvideo: 0
+  isold: 1
+  isvideo: 1
 
 - title: "Physics-Guided AI for Learning Spatiotemporal Dynamics"
   url: "https://www.youtube.com/watch?v=tp6a9WKmxbw"

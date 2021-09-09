@@ -44,12 +44,14 @@
   photo: alumni.png
   duration: 2020
   info: Visiting Scholar
+  hp: https://tobias-freidling.onrender.com/
   affiliation: PhD student, University of Cambridge
 
 - name: Mathis Petrovich 
   photo: mathis.jpg
   duration: 2019-2020
   info: Intern
+  hp: https://imagine.enpc.fr/~petrovim/
   affiliation: PhD student, Ecole des Ponts Paristech
 
 - name: Chao Liang 
