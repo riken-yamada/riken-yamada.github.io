@@ -1,5 +1,35 @@
 - title: "TBD"
   url: ""
+  authors: "Hiroshi Kajino (IBM Research Tokyo)"
+  date: November, 30th, 2021. 4pm (JST)
+  isold: 0
+  isvideo: 0
+
+
+- title: "TBD"
+  url: ""
+  authors: "Soheil Kolouri (Vanderbuilt University)"
+  date: November, 26th, 2021. 11am (JST)
+  isold: 0
+  isvideo: 0
+
+- title: "TBD"
+  url: ""
+  authors: "Vu Nguyen (Amazon)"
+  date: November, 16th, 2021. 4pm (JST)
+  isold: 0
+  isvideo: 0
+
+- title: "TBD"
+  url: ""
+  authors: "Matt Kusner (UCL)"
+  date: October, 26th, 2021. 5pm (JST)
+  isold: 0
+  isvideo: 0
+
+
+- title: "Breaking the curse of dimensionality in smooth optimal transport"
+  url: "https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/127501"
   authors: "Boris Muzellec (INRIA)"
   date: October, 19th, 2021. 4pm (JST)
   isold: 0
@@ -8,18 +38,18 @@
 
 
 - title: "Stochastic Gradient Descent with Multiplicative Noise"
-  url: "https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/125701"
+  url: ""
   authors: "Ziyin Liu (University of Tokyo)"
   date: September, 21st, 2021. 4pm (JST)
-  isold: 0
+  isold: 1
   isvideo: 0
 
 - title: "Action-Conditioned 3D Human Motion Synthesis with Transformer VAE"
-  url: "https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/125052"
+  url: "https://www.youtube.com/watch?v=unCDVtNr7wY"
   authors: "Mathis Petrovich (École des Ponts ParisTech)"
   date: September, 14th, 2021. 4pm (JST)
-  isold: 0
-  isvideo: 0
+  isold: 1
+  isvideo: 1
 
 - title: "Fast Approximation for a general clustering algorithm"
   url: "https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/124987"
