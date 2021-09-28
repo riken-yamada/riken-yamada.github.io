@@ -1,3 +1,20 @@
+- name: Akito Seki
+  photo: alumni.png
+  duration: 2018-2021
+  info: Master student
+  email: 
+  number_educ: 0
+  education1:
+
+- name: Yuki Tomimura
+  photo: alumni.png
+  duration: 2020-2021
+  info: Bachelor Student
+  email: 
+  number_educ: 0
+  education1:
+
+
 - name: Liu Yang
   photo: alumni.png
   duration: 2020-2021

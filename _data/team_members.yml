@@ -35,13 +35,6 @@
   number_educ: 0
   education1:
 
-- name: Akito Seki
-  photo: alumni.png
-  info: Master student
-  email: 
-  number_educ: 0
-  education1:
-
 - name: Dinesh Singh
   photo: dinesh.jpg
   info: Postdoc
@@ -58,12 +51,6 @@
   hp: https://yukitakezawa.github.io/ 
   education1:
 
-- name: Yuki Tomimura
-  photo: alumni.png
-  info: Bachelor Student
-  email: 
-  number_educ: 0
-  education1:
 
 - name: Ayato Toyokuni
   photo: alumni.png
@@ -83,6 +70,6 @@
   photo: yamada.jpg
   info: Team Leader
   email: makoto.yamada@riken.jp
-  hp: https://makotoyamada-ml.com/profile.html 
+  hp: https://riken-yamada.github.io/profile.html
   number_educ: 0
 
