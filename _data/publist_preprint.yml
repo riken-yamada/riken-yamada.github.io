@@ -30,21 +30,6 @@
   highlight: 0
   news2:
 
-- title: "Dynamic Sasvi: Strong Safe Screening for Norm-Regularized Least Squares"
-  image: ""
-  description: ""
-  authors: Hiroaki Yamada, Makoto Yamada
-  link:
-    pdfurl: https://arxiv.org/pdf/2102.04108.pdf
-    codeurl:
-    venueurl:
-    display: arXiv 2021
-  year: 2021
-  ispdf: 1
-  iscode: 0
-  isml: 1
-  highlight: 0
-  news2:
 
 - title: "Poincare: Recommending Publication Venues via Treatment Effect Estimation"
   image: ""
