@@ -1,3 +1,19 @@
+- title: "Nys-Curve: Nyström-Approximated Curvature for Stochastic Optimization"
+  image: ""
+  description: ""
+  authors: Hardik Tankaria, Dinesh Singh, Makoto Yamada
+  link:
+    pdfurl: https://arxiv.org/abs/2110.08577
+    codeurl:
+    venueurl:
+    display: arXiv 2021
+  year: 2021
+  ispdf: 1
+  iscode: 0
+  isml: 1
+  highlight: 0
+  news2:
+
 - title: "Fixed Support Tree-Sliced Wasserstein Barycenter"
   image: ""
   description: ""

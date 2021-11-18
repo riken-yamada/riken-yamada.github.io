@@ -1,48 +1,48 @@
-- title: "TBD"
-  url: ""
+- title: "A differentiable point process with its application to spiking neural networks (ICML-21)"
+  url: "https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/128185"
   authors: "Hiroshi Kajino (IBM Research Tokyo)"
   date: November, 30th, 2021. 4pm (JST)
   isold: 0
   isvideo: 0
 
 
-- title: "TBD"
-  url: ""
+- title: "Wasserstein Embeddings in the Deep Learning Era"
+  url: "https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/129339"
   authors: "Soheil Kolouri (Vanderbuilt University)"
-  date: November, 26th, 2021. 11am (JST)
+  date: December, 2nd, 2021. 12am (JST)
   isold: 0
   isvideo: 0
 
-- title: "TBD"
-  url: ""
+- title: "Bayesian Optimization with Categorical and Continuous Variables"
+  url: "https://aip.riken.jp/uploads/a36714a621c0ac3675c13e5b59915fcb.pdf"
   authors: "Vu Nguyen (Amazon)"
   date: November, 16th, 2021. 4pm (JST)
-  isold: 0
-  isvideo: 0
+  isold: 1
+  isvideo: 1
 
-- title: "TBD"
+- title: "Learning Binary Decision Trees by Argmin Differentiation"
   url: ""
   authors: "Matt Kusner (UCL)"
   date: October, 26th, 2021. 5pm (JST)
-  isold: 0
+  isold: 1
   isvideo: 0
 
 
 - title: "Breaking the curse of dimensionality in smooth optimal transport"
-  url: "https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/127501"
+  url: "https://www.youtube.com/watch?v=qWood9lZV6E"
   authors: "Boris Muzellec (INRIA)"
   date: October, 19th, 2021. 4pm (JST)
-  isold: 0
-  isvideo: 0
+  isold: 1
+  isvideo: 1
 
 
 
 - title: "Stochastic Gradient Descent with Multiplicative Noise"
-  url: ""
+  url: "https://www.youtube.com/watch?v=0TYesq8dCiE"
   authors: "Ziyin Liu (University of Tokyo)"
   date: September, 21st, 2021. 4pm (JST)
   isold: 1
-  isvideo: 0
+  isvideo: 1
 
 - title: "Action-Conditioned 3D Human Motion Synthesis with Transformer VAE"
   url: "https://www.youtube.com/watch?v=unCDVtNr7wY"
