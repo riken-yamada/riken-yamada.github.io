@@ -580,11 +580,11 @@
   link:
     pdfurl: http://proceedings.mlr.press/v54/yamada17a/yamada17a.pdf
     venueurl:
-    codeurl: 
+    codeurl: https://github.com/myamada0321/Localizedlasso 
     display: AISTATS 2017
   year: 2017
   ispdf: 1
-  iscode: 0
+  iscode: 1
   isml: 1
   highlight: 0
   news2:
