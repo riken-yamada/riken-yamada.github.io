@@ -1,17 +1,31 @@
-- title: "A differentiable point process with its application to spiking neural networks (ICML-21)"
-  url: "https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/128185"
-  authors: "Hiroshi Kajino (IBM Research Tokyo)"
-  date: November, 30th, 2021. 4pm (JST)
+- title: "MMD Aggregated Two-Sample Test"
+  url: "https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/131267"
+  authors: "Antonin Schrab (UCL)"
+  date: January, 24th, 2022. 6pm (JST)
   isold: 0
   isvideo: 0
+
+- title: "Label-noise Learning Beyond Class-conditional Noise"
+  url: ""
+  authors: "Gang Niu (RIKEN AIP)"
+  date: January, 11th, 2022. 4pm (JST)
+  isold: 1
+  isvideo: 0
+
+- title: "A differentiable point process with its application to spiking neural networks (ICML-21)"
+  url: "https://www.youtube.com/watch?v=XlCbaTjmMU4"
+  authors: "Hiroshi Kajino (IBM Research Tokyo)"
+  date: November, 30th, 2021. 4pm (JST)
+  isold: 1
+  isvideo: 1
 
 
 - title: "Wasserstein Embeddings in the Deep Learning Era"
-  url: "https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/129339"
+  url: "https://www.youtube.com/watch?v=AxEEV5abg6E"
   authors: "Soheil Kolouri (Vanderbuilt University)"
   date: December, 2nd, 2021. 12am (JST)
-  isold: 0
-  isvideo: 0
+  isold: 1
+  isvideo: 1
 
 - title: "Bayesian Optimization with Categorical and Continuous Variables"
   url: "https://aip.riken.jp/uploads/a36714a621c0ac3675c13e5b59915fcb.pdf"
@@ -21,11 +35,11 @@
   isvideo: 1
 
 - title: "Learning Binary Decision Trees by Argmin Differentiation"
-  url: ""
+  url: "https://www.youtube.com/watch?v=PLs7ZpeZPrE"
   authors: "Matt Kusner (UCL)"
   date: October, 26th, 2021. 5pm (JST)
   isold: 1
-  isvideo: 0
+  isvideo: 1
 
 
 - title: "Breaking the curse of dimensionality in smooth optimal transport"
