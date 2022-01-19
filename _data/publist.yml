@@ -30,6 +30,22 @@
   highlight: 0
   news2:
 
+- title: "Sobolev Transport: A Scalable Metric for Probability Measures with Graph Metrics"
+  image: ""
+  description: ""
+  authors: Tam Le*, Truyen Nguyen*, Dinh Phung, Viet Anh Nguyen.
+  link:
+    pdfurl:
+    codeurl:
+    venueurl:
+    display: AISTATS 2022
+  year: 2022
+  ispdf: 0
+  iscode: 0
+  isml: 1
+  highlight: 0
+  news2:
+
 - title: "Constant Time Graph Neural Networks"
   image: ""
   description: ""
