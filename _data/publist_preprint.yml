@@ -14,21 +14,6 @@
   highlight: 0
   news2:
 
-- title: "Fixed Support Tree-Sliced Wasserstein Barycenter"
-  image: ""
-  description: ""
-  authors: Yuki Takezawa, Ryoma Sato, Zornitsa Kozareva, Sujith Ravi, Makoto Yamada
-  link:
-    pdfurl: https://arxiv.org/pdf/2109.03431.pdf
-    codeurl:
-    venueurl:
-    display: arXiv 2021
-  year: 2021
-  ispdf: 1
-  iscode: 0
-  isml: 1
-  highlight: 0
-  news2:
 
 - title: "Re-evaluating Word Mover's Distance"
   image: ""
