@@ -1,3 +1,55 @@
+- title: "Feature Selection for Discovering Distributional Treatment Effect Modifiers"
+  image: ""
+  description: ""
+  authors: Yoichi Chikahara, Makoto Yamada, Hisashi Kashima
+  link:
+    pdfurl: 
+    codeurl:
+    venueurl:
+    display: UAI 2022
+  year: 2022
+  ispdf: 0
+  iscode: 0
+  isml: 1
+  highlight: 0
+  news2:
+
+
+- title: "Re-evaluating Word Mover’s Distance"
+  image: ""
+  description: ""
+  authors: Ryoma Sato, Makoto Yamada, Hisashi Kashima
+  link:
+    pdfurl: https://arxiv.org/abs/2105.14403 
+    codeurl:
+    venueurl:
+    display: ICML 2022
+  year: 2022
+  ispdf: 1
+  iscode: 0
+  isml: 1
+  highlight: 0
+  news2:
+
+- title: "Word Tour: One-dimensional Word Embeddings via the Traveling Salesman Problem"
+  image: ""
+  description: ""
+  authors: Ryoma Sato
+  link:
+    pdfurl: 
+    codeurl:
+    venueurl:
+    display: NAACL 2022
+  year: 2022
+  ispdf: 1
+  iscode: 0
+  isml: 1
+  highlight: 0
+  news2:
+
+
+
+
 - title: "Fixed Support Tree-Sliced Wasserstein Barycenter"
   image: ""
   description: ""
@@ -41,6 +93,70 @@
     display: AISTATS 2022
   year: 2022
   ispdf: 0
+  iscode: 0
+  isml: 1
+  highlight: 0
+  news2:
+
+- title: "Private Recommender Systems: How Can Users Build Their Own Fair Recommender Systems without Log Data?"
+  image: ""
+  description: ""
+  authors: Ryoma Sato
+  link:
+    pdfurl: https://arxiv.org/abs/2105.12353
+    codeurl:
+    venueurl:
+    display: SDM 2022
+  year: 2022
+  ispdf: 1
+  iscode: 0
+  isml: 1
+  highlight: 0
+  news2:
+
+- title: "Retrieving Black-box Optimal Images from External Databases."
+  image: ""
+  description: ""
+  authors: Ryoma Sato
+  link:
+    pdfurl: https://arxiv.org/abs/2112.14921
+    codeurl:
+    venueurl:
+    display: WSDM 2022
+  year: 2022
+  ispdf: 1
+  iscode: 0
+  isml: 1
+  highlight: 0
+  news2: 
+
+- title: "Enumerating Fair Packages for Group Recommendations."
+  image: ""
+  description: ""
+  authors: Ryoma Sato
+  link:
+    pdfurl: https://arxiv.org/abs/2105.14423
+    codeurl:
+    venueurl:
+    display: WSDM 2022
+  year: 2022
+  ispdf: 1
+  iscode: 0
+  isml: 1
+  highlight: 0
+  news2:
+
+- title: "Poincare: Recommending Publication Venues via Treatment Effect Estimation"
+  image: ""
+  description: ""
+  authors: Ryoma Sato, Makoto Yamada, Hisashi Kashima
+  link:
+    pdfurl: https://arxiv.org/abs/2010.09157
+    codeurl:
+    venueurl:
+    display: Journal of Informatics
+  year: 2022
+  ispdf: 1
   iscode: 0
   isml: 1
   highlight: 0
