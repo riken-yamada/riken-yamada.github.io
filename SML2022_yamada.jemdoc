@@ -1,0 +1,23 @@
+# jemdoc: showsource = SML,addcss{css/jemdoc.css}
+\n
+= Statistical Learning Theory (2022), Graduate School of Informatics, Kyoto University
+
+Lectures: Hisashi Kashima and [http://www.makotoyamada-ml.com/ Makoto Yamada]
+
+This course will cover in a broad sense the fundamental theoretical aspects and applicative possibilities of statistical machine learning, which is now a fundamental block of statistical data analysis and data mining. This course will focus first on the supervised and unsupervised learning problems, including a survey of probably approximately correct learning, Bayesian learning as well as other learning theory frameworks. Following this introduction, several probabilistic models and prediction algorithms, such as the logistic regression, perceptron, and support vector machine will be introduced. Advanced topic such as online learning, structured prediction, and sparse modeling will be also introduced. 
+
+== Topics
+- Supervised learning and unsupervised learning
+- Linear and non-linear regression
+- Support vector machine and logistic regression
+- Learning theory
+- On-line learning
+- Model evaluation
+- Sparse modeling
+- Advanced topics (Semi-supervised learning, active learning, and structured output prediction)
+
+== Lecture Slides
+. [Course/2022/Feature_Selection_and_Sparsity.pdf Feature Selection and Sparsity]
+. [Course/2022/Dimensionality_reduction.pdf Dimensionality Reduction]
+. [Course/2022/Semi_supervised_Learning.pdf Semi-supervised Learning/Transfer Learning]
+. [Course/2022/Graph_Neural_Network.pdf Graph Neural Network]
