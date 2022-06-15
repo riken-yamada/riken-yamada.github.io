@@ -1,3 +1,12 @@
+- name: Marco Fiorucci
+  photo: marco.jpg
+  info: Marie Curie fellow
+  email: 
+  number_educ: 0
+  hp: https://www.iit.it/people/marco-fiorucci
+  education1:
+
+
 - name: Hector Climente Gonzalez
   photo: hector.png
   info: Postdoc (SPDR)
@@ -51,13 +60,6 @@
   hp: https://yukitakezawa.github.io/ 
   education1:
 
-
-- name: Ayato Toyokuni
-  photo: alumni.png
-  info: Master student
-  email: ayato.toyokuni@riken.jp
-  number_educ: 0
-  education1:
 
 - name: Hiroaki Yamada
   photo: alumni.png

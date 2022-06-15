@@ -1,3 +1,20 @@
+- title: "Feature Robust Optimal Transport for High-dimensional Data"
+  image: ""
+  description: ""
+  authors: Mathis Petrovich, Chao Liang, Ryoma Sato, Yanbin Liu, Yao-Hung Hubert Tsai, Linchao Zhu, Yi Yang, Ruslan Salakhutdinov, Makoto Yamada
+  link:
+    pdfurl: https://arxiv.org/pdf/2005.12123
+    codeurl:
+    venueurl:
+    display: ECML 2022
+  year: 2022
+  ispdf: 1
+  iscode: 0
+  isml: 1
+  highlight: 0
+  news2:
+
+
 - title: "Feature Selection for Discovering Distributional Treatment Effect Modifiers"
   image: ""
   description: ""

@@ -15,40 +15,6 @@
   news2:
 
 
-- title: "Re-evaluating Word Mover's Distance"
-  image: ""
-  description: ""
-  authors: Ryoma Sato,  Makoto Yamada, Hisashi Kashime
-  link:
-    pdfurl: https://arxiv.org/pdf/2105.14403.pdf
-    codeurl:
-    venueurl:
-    display: arXiv 2021
-  year: 2021
-  ispdf: 1
-  iscode: 0
-  isml: 1
-  highlight: 0
-  news2:
-
-
-- title: "Poincare: Recommending Publication Venues via Treatment Effect Estimation"
-  image: ""
-  description: ""
-  authors: Ryoma Sato, Makoto Yamada, Hisashi Kashima
-  link:
-    pdfurl: https://arxiv.org/pdf/2010.09157
-    codeurl:
-    venueurl:
-    display: arXiv 2020
-  year: 2020
-  ispdf: 1
-  iscode: 0
-  isml: 1
-  highlight: 0
-  news2:
-
-
 - title: "Feature Robust Optimal Transport for High-dimensional Data"
   image: ""
   description: ""
