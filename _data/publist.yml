@@ -1,7 +1,7 @@
 - title: "GraphLIME: Local Interpretable Model Explanations for Graph Neural Networks"
   image: ""
   description: ""
-  authors: Qiang Huang, Makoto Yamada, Yuan Tian, Dinesh Singh, Dawei Yin, Yi Chang
+  authors: Qiang Huang, Makoto Yamada, Yuan Tian, Dinesh Singh, Yi Chang
   link:
     pdfurl: https://arxiv.org/pdf/2001.06216
     codeurl:
