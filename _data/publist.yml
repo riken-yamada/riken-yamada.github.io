@@ -1,3 +1,19 @@
+- title: "GraphLIME: Local Interpretable Model Explanations for Graph Neural Networks"
+  image: ""
+  description: ""
+  authors: Qiang Huang, Makoto Yamada, Yuan Tian, Dinesh Singh, Dawei Yin, Yi Chang
+  link:
+    pdfurl: https://arxiv.org/pdf/2001.06216
+    codeurl:
+    venueurl:
+    display: TKDE 2022
+  year: 2022
+  ispdf: 1
+  iscode: 0
+  isml: 1
+  highlight: 0
+  news2:
+
 - title: "Feature Robust Optimal Transport for High-dimensional Data"
   image: ""
   description: ""
