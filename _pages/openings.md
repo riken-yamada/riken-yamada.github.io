@@ -7,15 +7,12 @@ permalink: /vacancies
 ---
 
 # Open positions
-We are currently not looking for postdocs and interns at our team.
+- Ph.D. students. Please directly apply to OIST (https://admissions.oist.jp/).- We will look for researchers soon at the Machine Learning and Data Science Unit at OIST (https://groups.oist.jp/mlds). 
 
-**Information About the RIKEN High-dimensional Statistical Modeling Team**
-- We are part of RIKEN, Japan's largest multidisciplinary research institution, and enclaved in the historical Kyoto University.
-- We are based in beautiful Kyoto (https://kyoto.travel/en/), and close to Osaka, the second largest city in Japan.
 - We are an international team: both our members and collaborators are from all over the world.
 - We regularly publish papers at top ML venues, including NeurIPS, ICML, AISTATS, and ICLR.
 
-If you have any questions, please feel free to contact Makoto (**makoto.yamada at riken.jp**).
+If you have any questions, please feel free to contact us!
 
 
 
