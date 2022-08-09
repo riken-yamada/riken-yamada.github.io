@@ -12,7 +12,7 @@ permalink: /vacancies
 - We are an international team: both our members and collaborators are from all over the world.
 - We regularly publish papers at top ML venues, including NeurIPS, ICML, AISTATS, and ICLR.
 
-If you have any questions, please feel free to contact us!
+If you have any questions, please feel free to contact to makoto (dot) yamada (at) oist.jp!
 
 
 
