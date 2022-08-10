@@ -5,7 +5,7 @@ excerpt: "High-dim ML: Team members"
 sitemap: false
 permalink: /vacancies
 ---
-h
+
 We are currently looking for start-up members for our newly created [Machine Learning and Data Science (MLDS) Unit at OIST](https://groups.oist.jp/mlds). We look forward to hearing from you soon!
 
 # Open positions
